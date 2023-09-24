@@ -2,7 +2,7 @@
 
 Данный курс является бесплатным ресурсом, цель которого - дать начинающему разработчику чёткий план по развитию своих профессиональных навыков до уровня, позволяющего трудоустроиться на вакансию Python backend Junior developer.
 
-❗️Репозиторий является адаптацией моего [https://github.com/zhukovsd/java-backend-learning-course](https://github.com/zhukovsd/java-backend-learning-course) под Python❗️
+❗️**Репозиторий является адаптацией моего [https://github.com/zhukovsd/java-backend-learning-course](https://github.com/zhukovsd/java-backend-learning-course) под Python**❗️
 
 Курс является воплощением моего опыта менторства начинающих разработчиков (на июль 2023, количество студентов, трудоустроившихся джуниорами с моей помощью - 6).
 
@@ -24,11 +24,11 @@
 
 #### Схема навыков
 
-![Screenshot 2023-09-23 at 19 25 34](https://github.com/zhukovsd/java-backend-learning-course/assets/14361885/8423dbe3-cf9e-4b18-8148-5c6b3e75a1f4)
+![Java Backend developer roadmap-Python drawio](https://github.com/zhukovsd/python-backend-learning-course/assets/14361885/ea888308-26fe-47bb-b2ff-9cd586c315a8)
 
 #### Матрица навыков и проектов
 
-![Screenshot 2023-05-22 at 12 39 45](https://github.com/zhukovsd/java-backend-learning-course/assets/14361885/33b80e1a-0311-47a0-8f1b-e5d4a284e681)
+![Screenshot 2023-09-24 at 23 11 54](https://github.com/zhukovsd/python-backend-learning-course/assets/14361885/bcfb1f16-7427-4a41-a2a7-9cb9eacf03aa)
 
 Идея матрицы - визуализировать, как проекты охватывают больше и больше сфер знаний.
 
