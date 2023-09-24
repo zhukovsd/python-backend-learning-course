@@ -26,6 +26,8 @@
 
 ![Java Backend developer roadmap-Python drawio](https://github.com/zhukovsd/python-backend-learning-course/assets/14361885/ea888308-26fe-47bb-b2ff-9cd586c315a8)
 
+Подробно про Java версию этой схемы я рассказывал на [стриме](https://www.youtube.com/watch?v=4B21MDbtbWE).
+
 #### Матрица навыков и проектов
 
 ![Screenshot 2023-09-24 at 23 41 56](https://github.com/zhukovsd/python-backend-learning-course/assets/14361885/8b6f64ca-a264-45aa-a735-42fa9ce886be)
