@@ -10,7 +10,6 @@ REST API для описания валют и обменных курсов. П
 
 - [Python]({{ site.baseurl }}/Technologies/Python/) - коллекции, ООП
 - [Паттерн MVC(S)]({{ site.baseurl }}/Technologies/Python/#mvc) 
-- [Build systems]({{ site.baseurl }}/Technologies/BuildSystems/)
 - [Backend]({{ site.baseurl }}/Technologies/Backend/)
   - [http.server](https://docs.python.org/3/library/http.server.html)
   - HTTP - GET и POST запросы, коды ответа
