@@ -4,19 +4,19 @@ REST API для описания валют и обменных курсов. П
 
 Веб-интерфейс для проекта не подразумевается.
 
-Комментарии по проекту - [https://www.youtube.com/watch?v=013b_b7PszM](https://www.youtube.com/watch?v=013b_b7PszM).
+Комментарии по проекту - [https://www.youtube.com/watch?v=013b_b7PszM](https://www.youtube.com/watch?v=013b_b7PszM) (видео записано для Java версии роадмапа).
 
 ## Что нужно знать
 
-- [Java]({{ site.baseurl }}/Technologies/Java/) - коллекции, ООП
-- [Паттерн MVC(S)]({{ site.baseurl }}/Technologies/Java/#mvc) 
-- [Maven/Gradle]({{ site.baseurl }}/Technologies/BuildSystems/)
+- [Python]({{ site.baseurl }}/Technologies/Python/) - коллекции, ООП
+- [Паттерн MVC(S)]({{ site.baseurl }}/Technologies/Python/#mvc) 
+- [Build systems]({{ site.baseurl }}/Technologies/BuildSystems/)
 - [Backend]({{ site.baseurl }}/Technologies/Backend/)
-  - Java сервлеты
+  - [http.server](https://docs.python.org/3/library/http.server.html)
   - HTTP - GET и POST запросы, коды ответа
   - REST API, JSON
-- [Базы данных]({{ site.baseurl }}/Technologies/Databases/) - SQLite, JDBC
-- [Деплой]({{ site.baseurl }}/Technologies/DevOps/#деплой) - облачный хостинг, командная строка Linux, Tomcat
+- [Базы данных]({{ site.baseurl }}/Technologies/Databases/) - [sqlite3](https://docs.python.org/3/library/sqlite3.html)
+- [Деплой]({{ site.baseurl }}/Technologies/DevOps/#деплой) - облачный хостинг, командная строка Linux
 
 Фреймворки не используем.
 
@@ -314,18 +314,18 @@ HTTP коды ответов:
 
 ## План работы над приложением
 
-- Создать заготовку Java бэкенд приложения с `javax.servlet`
+- Создать заготовку Python бэкенд приложения с `http.server`
 - Создать таблицы в базе данных, и вручную их заполнить начальными данными (несколько валют, обменных курсов)
-- Реализовать методы REST API для работы с валютами и обменными курсами
+- Используя паттерн MVC, реализовать методы REST API для работы с валютами и обменными курсами
 - Реализовать метод REST API с подсчётом обмена валюты
 - Деплой на удалённый сервер
 
 ## Ресурсы для работы над ошибками
 
-- Реализации проекта другими студентами и мои ревью этих реализаций - [https://zhukovsd.github.io/java-backend-learning-course/Projects/FinishedProjects](https://zhukovsd.github.io/java-backend-learning-course/Projects/FinishedProjects)
+- Реализации проекта другими студентами и мои ревью этих реализаций - [https://zhukovsd.github.io/python-backend-learning-course/Projects/FinishedProjects](https://zhukovsd.github.io/python-backend-learning-course/Projects/FinishedProjects)
 - Чеклист для самопроверки с типовыми ошибками (в конце страницы)
 - Готовый проект можете отправить мне на ревью - [https://t.me/zhukovsd](https://t.me/zhukovsd)
-  - **[Обновление от 7 сентября 2023]** - целевое количество видео и текстовых ревью проекта "Обмен валют" накоплено, новые реализации к ревью не принимаются. В любом случае призываю отправлять законченные проекты в [чат](https://t.me/zhukovsd_it_chat), добавляю их в [список](https://zhukovsd.github.io/java-backend-learning-course/Projects/FinishedProjects/). Подробности - [https://t.me/zhukovsd_it_mentor/57](https://t.me/zhukovsd_it_mentor/57) 
+  - **[Обновление от 7 сентября 2023]** - целевое количество видео и текстовых ревью проекта "Обмен валют" накоплено, новые реализации к ревью не принимаются. В любом случае призываю отправлять законченные проекты в [чат](https://t.me/zhukovsd_it_chat), добавляю их в [список](https://zhukovsd.github.io/python-backend-learning-course/Projects/FinishedProjects/). Подробности - [https://t.me/zhukovsd_it_mentor/57](https://t.me/zhukovsd_it_mentor/57) 
 
 ## Тестовый фронтенд
 
@@ -357,16 +357,10 @@ HTTP коды ответов:
   - Отсутствие внешних ключей между таблицами
   - Некорректный тип данных для хранения курсов и сумм (лучше всего подходит `Decimal`)
 - Перед вставкой валюты - проверка на существование валюты с таким же кодом через `SELECT`, вместо того чтобы положиться на unique индекс и получить исключение от БД в случае нарушения уникальности
-- Уязвимость к SQL injections, следует использовать параметризированные prepared statements
+- Уязвимость к SQL injections, следует использовать параметризированные запросы
 - Использование double/float для операций с суммами
 - Неиспользование DTO классов для формирования ответов REST API
-- Дублирование кода вместо использования filter для установки заголовков ответов во всех сервлетах - content-type и character encoding
-
-Не обязательно, но полезно:
-- Реализовать connection pool вместо того чтобы открывать по новому соединению на каждую SQL операцию
-- Использовать MapStruct или ModelMapper чтобы совершать преобразования между классами-моделями и DTO
 
 Мелочи:
-- Неиспользование `.gitignore`, из-за чего в репозиторий попадают лишние файлы и папки (например, `target`, `out`)
 - Неаккуратное форматирование кода
 - Неиспользование пакетов для структурирования классов, все классы в корне проекта

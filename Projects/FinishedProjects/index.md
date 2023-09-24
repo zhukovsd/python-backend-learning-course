@@ -2,9 +2,11 @@
 
 Список реализаций проектов курса (и не только). Для каждого проекта указана ссылка на код, язык программирования/фреймворк, и ссылка на ревью.
 
+Полная версия таблицы с реализациями проектов на всех языках программирования, не только Python - [https://zhukovsd.github.io/java-backend-learning-course/Projects/FinishedProjects/](https://zhukovsd.github.io/java-backend-learning-course/Projects/FinishedProjects/).
+
 ## Виселица
 
-ТЗ проекта - [https://zhukovsd.github.io/java-backend-learning-course/Projects/Hangman/](https://zhukovsd.github.io/java-backend-learning-course/Projects/Hangman/)
+ТЗ проекта - [https://zhukovsd.github.io/python-backend-learning-course/Projects/Hangman/](https://zhukovsd.github.io/python-backend-learning-course/Projects/Hangman/)
 
 | Репозиторий | Автор | Язык | Ревью |
 |-------------|-------|------|-------|
@@ -55,7 +57,7 @@
 
 ## Симуляция
 
-ТЗ проекта - [https://zhukovsd.github.io/java-backend-learning-course/Projects/Simulation/](https://zhukovsd.github.io/java-backend-learning-course/Projects/Simulation/)
+ТЗ проекта - [https://zhukovsd.github.io/python-backend-learning-course/Projects/Simulation/](https://zhukovsd.github.io/python-backend-learning-course/Projects/Simulation/)
 
 | Репозиторий | Автор | Язык | Ревью |
 |-------------|-------|------|-------|
@@ -88,7 +90,7 @@
 
 ## Обмен валют
 
-ТЗ проекта - [https://zhukovsd.github.io/java-backend-learning-course/Projects/CurrencyExchange/](https://zhukovsd.github.io/java-backend-learning-course/Projects/CurrencyExchange/)
+ТЗ проекта - [https://zhukovsd.github.io/python-backend-learning-course/Projects/CurrencyExchange/](https://zhukovsd.github.io/python-backend-learning-course/Projects/CurrencyExchange/)
 
 | Репозиторий | Автор | Язык | Ревью |
 |-------------|-------|------|-------|
@@ -119,7 +121,7 @@
 
 ## Табло теннисного матча
 
-ТЗ проекта - [https://zhukovsd.github.io/java-backend-learning-course/Projects/TennisScoreboard/](https://zhukovsd.github.io/java-backend-learning-course/Projects/TennisScoreboard/)
+ТЗ проекта - [https://zhukovsd.github.io/python-backend-learning-course/Projects/TennisScoreboard/](https://zhukovsd.github.io/python-backend-learning-course/Projects/TennisScoreboard/)
 
 | Репозиторий                                                      | Автор                                   | Язык              | Ревью                                                                    |
 |------------------------------------------------------------------|-----------------------------------------|-------------------|--------------------------------------------------------------------------|
@@ -136,7 +138,7 @@
 
 ## Погода
 
-ТЗ проекта - [https://zhukovsd.github.io/java-backend-learning-course/Projects/WeatherViewer/](https://zhukovsd.github.io/java-backend-learning-course/Projects/WeatherViewer/)
+ТЗ проекта - [https://zhukovsd.github.io/python-backend-learning-course/Projects/WeatherViewer/](https://zhukovsd.github.io/python-backend-learning-course/Projects/WeatherViewer/)
 
 | Репозиторий                                                | Автор                                   | Стек             | Ревью |
 |------------------------------------------------------------|-----------------------------------------|------------------|-------|
@@ -147,7 +149,7 @@
 
 ## Облачное хранилище файлов
 
-ТЗ проекта - [https://zhukovsd.github.io/java-backend-learning-course/Projects/CloudFileStorage/](https://zhukovsd.github.io/java-backend-learning-course/Projects/CloudFileStorage/)
+ТЗ проекта - [https://zhukovsd.github.io/python-backend-learning-course/Projects/CloudFileStorage/](https://zhukovsd.github.io/python-backend-learning-course/Projects/CloudFileStorage/)
 
 | Репозиторий                                                                                  | Автор                                       | Стек                      | Ревью                                                                                      |
 |----------------------------------------------------------------------------------------------|---------------------------------------------|---------------------------|--------------------------------------------------------------------------------------------|
@@ -158,7 +160,7 @@
 
 ## Планировщик задач
 
-ТЗ проекта - [https://zhukovsd.github.io/java-backend-learning-course/Projects/TaskTracker/](https://zhukovsd.github.io/java-backend-learning-course/Projects/TaskTracker/)
+ТЗ проекта - [https://zhukovsd.github.io/python-backend-learning-course/Projects/TaskTracker/](https://zhukovsd.github.io/python-backend-learning-course/Projects/TaskTracker/)
 
 | Репозиторий                                                          | Автор                                   | Стек                                        | Ревью                                                                                      |
 |----------------------------------------------------------------------|-----------------------------------------|---------------------------------------------|--------------------------------------------------------------------------------------------|
