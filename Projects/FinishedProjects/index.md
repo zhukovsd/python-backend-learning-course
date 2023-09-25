@@ -47,22 +47,19 @@
 
 ТЗ проекта - [https://zhukovsd.github.io/python-backend-learning-course/Projects/WeatherViewer/](https://zhukovsd.github.io/python-backend-learning-course/Projects/WeatherViewer/)
 
-| Репозиторий | Автор | Стек | Ревью |
-|-------------|-------|------|-------|
+Реализация пока нет.
 
 ## Облачное хранилище файлов
 
 ТЗ проекта - [https://zhukovsd.github.io/python-backend-learning-course/Projects/CloudFileStorage/](https://zhukovsd.github.io/python-backend-learning-course/Projects/CloudFileStorage/)
 
-| Репозиторий | Автор | Стек | Ревью |
-|-------------|-------|------|-------|
+Реализация пока нет.
 
 ## Планировщик задач
 
 ТЗ проекта - [https://zhukovsd.github.io/python-backend-learning-course/Projects/TaskTracker/](https://zhukovsd.github.io/python-backend-learning-course/Projects/TaskTracker/)
 
-| Репозиторий | Автор | Стек | Ревью |
-|-------------|-------|------|-------|
+Реализация пока нет.
 
 ## Остальное
 
