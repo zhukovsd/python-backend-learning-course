@@ -17,6 +17,7 @@
 | [Hungman_python](https://github.com/Drowchik/Hungman_python)       | [Drowchik](https://github.com/Drowchik)             | Python |                                                                                                                                                            |
 | [My_pet_projects](https://github.com/Victor-Smirnoff/My_pet_projects/tree/main/1.%20Hangman) | [Victor-Smirnoff](https://github.com/Victor-Smirnoff) | Python |  |
 | [hangman](https://github.com/swssb/hangman) | [swssb](https://github.com/swssb) | Python |  |
+| [hangman](https://github.com/Dias77/hangman) | [Dias77](https://github.com/Dias77) | Python |  |
 
 ## Симуляция
 
@@ -37,6 +38,7 @@
 | Репозиторий                                                    | Автор                               | Язык   | Ревью                                                                                                                                                      |
 |----------------------------------------------------------------|-------------------------------------|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [CurrencyExchange](https://github.com/Asenim/CurrencyExchange) | [Asenim](https://github.com/Asenim) | Python | 🎬 [https://t.me/zhukovsd_it_chat/3027](https://t.me/zhukovsd_it_chat/3027), 📝 [Notes](https://gist.github.com/zhukovsd/fccfdb588e3bea48db17f39a0b851d32) |
+| [currency_exchange](https://github.com/Victor-Smirnoff/currency_exchange) | [Victor-Smirnoff](https://github.com/Victor-Smirnoff) | Python |  |
 
 ## Табло теннисного матча
 
@@ -50,7 +52,9 @@
 
 ТЗ проекта - [https://zhukovsd.github.io/python-backend-learning-course/Projects/WeatherViewer/](https://zhukovsd.github.io/python-backend-learning-course/Projects/WeatherViewer/)
 
-Реализация пока нет.
+| Репозиторий                                                                | Автор                                               | Язык   | Ревью                                                                                                                                                      |
+|----------------------------------------------------------------------------|-----------------------------------------------------|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [WeatherApp](https://github.com/u-cha/WeatherApp/) | [u-cha](https://github.com/u-cha) | Python |  |
 
 ## Облачное хранилище файлов
 
