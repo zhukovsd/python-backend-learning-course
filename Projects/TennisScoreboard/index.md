@@ -16,7 +16,7 @@
 - [Базы данных]({{ site.baseurl }}/Technologies/Databases/) - MySQL, SQLAlchemy
 - [Frontend]({{ site.baseurl }}/Technologies/Frontend/) - HTML/CSS, блочная вёрстка
 - [Тесты]({{ site.baseurl }}/Technologies/Tests/) - юнит тестирование
-- [Деплой]({{ site.baseurl }}/Technologies/DevOps/#деплой) - облачный хостинг, командная строка Linux, Tomcat
+- [Деплой]({{ site.baseurl }}/Technologies/DevOps/#деплой) - облачный хостинг, командная строка Linux
 
 ## Мотивация проекта
 
