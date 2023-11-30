@@ -39,6 +39,8 @@
 |----------------------------------------------------------------|-------------------------------------|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [CurrencyExchange](https://github.com/Asenim/CurrencyExchange) | [Asenim](https://github.com/Asenim) | Python | 🎬 [https://t.me/zhukovsd_it_chat/3027](https://t.me/zhukovsd_it_chat/3027), 📝 [Notes](https://gist.github.com/zhukovsd/fccfdb588e3bea48db17f39a0b851d32) |
 | [currency_exchange](https://github.com/Victor-Smirnoff/currency_exchange) | [Victor-Smirnoff](https://github.com/Victor-Smirnoff) | Python |  |
+| [Exchange_progect](https://github.com/PavelFurochkin/Exchange_progect) | [PavelFurochkin](https://github.com/PavelFurochkin) | Python |  |
+| [CurrencyExchange](https://github.com/ekataeva/CurrencyExchange) | [ekataeva](https://github.com/ekataeva) | Python |  |
 
 ## Табло теннисного матча
 
@@ -47,6 +49,7 @@
 | Репозиторий                                                             | Автор                             | Язык   | Ревью |
 |-------------------------------------------------------------------------|-----------------------------------|--------|-------|
 | [TennisMatchScoreboard](https://github.com/u-cha/TennisMatchScoreboard) | [u-cha](https://github.com/u-cha) | Python |   📝[Notes](https://gist.github.com/zhukovsd/8c6a07afd054725ae73a57b48f182e87)    |
+| [Tennis_Match_Scoreboard](https://github.com/Asenim/Tennis_Match_Scoreboard) | [Asenim](https://github.com/Asenim) | Python |  |
 
 ## Погода
 
