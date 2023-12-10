@@ -39,7 +39,7 @@
 
 #### Избранные курсы и учебные ресурсы
 
-- TODO
+- [Плейлист](https://www.youtube.com/playlist?list=PLeLN0qH0-mCVdHgdjlnKTl4jKuJgCK-4b) от Артёма Шумейко
 - Практика - проект 4
 
 ## Интеграционные тесты
