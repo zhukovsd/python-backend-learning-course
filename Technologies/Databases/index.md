@@ -33,7 +33,7 @@
 
 #### Избранные курсы и учебные ресурсы
 
-- TODO
+- [Плейлист по работе с SQLite от канала selfedu](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8x4Inr5oYttMK6J47vxgv6J)
 - Практика:
   - Проект #3 - ["Обмен валют"](../../Projects/CurrencyExchange/index.md)
 
