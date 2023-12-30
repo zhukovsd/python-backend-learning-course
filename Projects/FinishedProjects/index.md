@@ -18,6 +18,8 @@
 | [hangman](https://github.com/Victor-Smirnoff/hangman) | [Victor-Smirnoff](https://github.com/Victor-Smirnoff) | Python |  |
 | [hangman](https://github.com/swssb/hangman) | [swssb](https://github.com/swssb) | Python |  |
 | [hangman](https://github.com/Dias77/hangman) | [Dias77](https://github.com/Dias77) | Python |  |
+| [Hungman](https://github.com/Igor23232023/Hungman) | [Igor23232023](https://github.com/Igor23232023) | Python |  |
+| [Hangman](https://github.com/Jlumon4ek/Hangman) | [Jlumon4ek](https://github.com/Jlumon4ek) | Python |
 
 ## Симуляция
 
@@ -50,6 +52,7 @@
 |-------------------------------------------------------------------------|-----------------------------------|--------|-------|
 | [TennisMatchScoreboard](https://github.com/u-cha/TennisMatchScoreboard) | [u-cha](https://github.com/u-cha) | Python |   📝[Notes](https://gist.github.com/zhukovsd/8c6a07afd054725ae73a57b48f182e87)    |
 | [Tennis_Match_Scoreboard](https://github.com/Asenim/Tennis_Match_Scoreboard) | [Asenim](https://github.com/Asenim) | Python |  |
+| [TennisScoreboard](https://github.com/Victor-Smirnoff/TennisScoreboard) | [Victor-Smirnoff](https://github.com/Victor-Smirnoff) | Python |  |
 
 ## Погода
 
