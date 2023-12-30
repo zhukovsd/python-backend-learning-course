@@ -6,7 +6,7 @@
 
 - [Python]({{ site.baseurl }}/Technologies/Python/) - коллекции, ООП
 - [Паттерн MVC(S)]({{ site.baseurl }}/Technologies/Python/#mvc) 
-- [Maven/Gradle]({{ site.baseurl }}/Technologies/BuildSystems/)
+- [Virtualenv/Poetry]({{ site.baseurl }}/Technologies/BuildSystems/)
 - [Backend]({{ site.baseurl }}/Technologies/Backend/)
   - Django
 - [Базы данных]({{ site.baseurl }}/Technologies/Databases/)
@@ -14,7 +14,7 @@
   - DjangoORM
 - [Frontend]({{ site.baseurl }}/Technologies/Frontend/) - HTML/CSS, Bootstrap
 - [Тесты]({{ site.baseurl }}/Technologies/Tests/) - интеграционное тестирование, моки
-- [Деплой]({{ site.baseurl }}/Technologies/DevOps/#деплой) - облачный хостинг, командная строка Linux, Tomcat
+- [Деплой]({{ site.baseurl }}/Technologies/DevOps/#деплой) - облачный хостинг, командная строка Linux
 
 ## Мотивация проекта
 
@@ -138,7 +138,7 @@
 
 Детали:
 - Для тестов должна использоваться БД, отдельная от основной (in-memory БД или независимая schema в основной БД), которая пересоздается (или очищается) перед каждым тест кейсом
-- Понадобится 2 конфигурации приложения - основная (для разработки и деплоя) и для прогона тестов. Конфигурации могут отличаться настройками доступа к БД для Hibernate, настройками приложения (длительность сессии, например)
+- Понадобится 2 конфигурации приложения - основная (для разработки и деплоя) и для прогона тестов. Конфигурации могут отличаться настройками доступа к БД для DjangoORM, настройками приложения (длительность сессии, например)
 
 ### Интеграционные тесты для сервиса по работе с OpenWeather API
 
