@@ -20,6 +20,7 @@
 | [hangman](https://github.com/Dias77/hangman) | [Dias77](https://github.com/Dias77) | Python |  |
 | [Hungman](https://github.com/Igor23232023/Hungman) | [Igor23232023](https://github.com/Igor23232023) | Python |  |
 | [Hangman](https://github.com/Jlumon4ek/Hangman) | [Jlumon4ek](https://github.com/Jlumon4ek) | Python |
+| [hangman](https://github.com/litvinovanton7/hangman)          | [itvinovanton7](https://github.com/litvinovanton7) | Python |                   |
 
 ## Симуляция
 
@@ -32,6 +33,7 @@
 | [Simulation](https://github.com/PavelFurochkin/Simulation)                 | [PavelFurochkin](https://github.com/PavelFurochkin) | Python | 🎬 [https://t.me/zhukovsd_it_chat/4010](https://t.me/zhukovsd_it_chat/4010), 📝 [Notes](https://gist.github.com/zhukovsd/8762a8404c2d3a4e91a0fe1905802840) |
 | [Simulation](https://github.com/ekataeva/Simulation)                       | [ekataeva](https://github.com/ekataeva)             | Python | 📝 [https://t.me/zhukovsd_it_chat/14115](https://t.me/zhukovsd_it_chat/14115)                                                                              |
 | [simulation](https://github.com/Victor-Smirnoff/simulation) | [Victor-Smirnoff](https://github.com/Victor-Smirnoff) | Python |  |
+| [simulation-of-life](https://github.com/DmitriyDevv/simulation-of-life?tab=readme-ov-file#quickStart) | [DmitriyDevv](https://github.com/DmitriyDevv)     | Python |                   |
 
 ## Обмен валют
 
@@ -43,6 +45,7 @@
 | [currency_exchange](https://github.com/Victor-Smirnoff/currency_exchange) | [Victor-Smirnoff](https://github.com/Victor-Smirnoff) | Python |  |
 | [Exchange_progect](https://github.com/PavelFurochkin/Exchange_progect) | [PavelFurochkin](https://github.com/PavelFurochkin) | Python |  |
 | [CurrencyExchange](https://github.com/ekataeva/CurrencyExchange) | [ekataeva](https://github.com/ekataeva) | Python |  |
+
 
 ## Табло теннисного матча
 
@@ -61,6 +64,7 @@
 | Репозиторий                                                                | Автор                                               | Язык   | Ревью                                                                                                                                                      |
 |----------------------------------------------------------------------------|-----------------------------------------------------|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [WeatherApp](https://github.com/u-cha/WeatherApp/) | [u-cha](https://github.com/u-cha) | Python |  |
+| [weather](https://github.com/Victor-Smirnoff/weather)      | [Victor-Smirnoff](https://github.com/Victor-Smirnoff) | Python |                   |
 
 ## Облачное хранилище файлов
 
@@ -72,7 +76,9 @@
 
 ТЗ проекта - [https://zhukovsd.github.io/python-backend-learning-course/Projects/TaskTracker/](https://zhukovsd.github.io/python-backend-learning-course/Projects/TaskTracker/)
 
-Реализация пока нет.
+| Репозиторий                                                                | Автор                                               | Язык   | Ревью                                                                                                                                                      |
+|----------------------------------------------------------------------------|-----------------------------------------------------|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [TODO-App](https://github.com/userksv/TODO-App) | [userksv](https://github.com/userksv) | Python |                   |
 
 ## Остальное
 
