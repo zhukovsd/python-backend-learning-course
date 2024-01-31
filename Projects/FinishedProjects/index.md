@@ -33,7 +33,6 @@
 | [Simulation](https://github.com/PavelFurochkin/Simulation)                 | [PavelFurochkin](https://github.com/PavelFurochkin) | Python | 🎬 [https://t.me/zhukovsd_it_chat/4010](https://t.me/zhukovsd_it_chat/4010), 📝 [Notes](https://gist.github.com/zhukovsd/8762a8404c2d3a4e91a0fe1905802840) |
 | [Simulation](https://github.com/ekataeva/Simulation)                       | [ekataeva](https://github.com/ekataeva)             | Python | 📝 [https://t.me/zhukovsd_it_chat/14115](https://t.me/zhukovsd_it_chat/14115)                                                                              |
 | [simulation](https://github.com/Victor-Smirnoff/simulation) | [Victor-Smirnoff](https://github.com/Victor-Smirnoff) | Python |  |
-| [simulation-of-life](https://github.com/DmitriyDevv/simulation-of-life?tab=readme-ov-file#quickStart) | [DmitriyDevv](https://github.com/DmitriyDevv)     | Python |                   |
 
 ## Обмен валют
 
