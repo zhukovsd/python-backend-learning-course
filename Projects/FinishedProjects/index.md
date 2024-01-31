@@ -53,7 +53,7 @@
 
 | Репозиторий                                                             | Автор                             | Язык   | Ревью |
 |-------------------------------------------------------------------------|-----------------------------------|--------|-------|
-| [TennisMatchScoreboard](https://github.com/u-cha/TennisMatchScoreboard) | [u-cha](https://github.com/u-cha) | Python |   📝[Notes](https://gist.github.com/zhukovsd/8c6a07afd054725ae73a57b48f182e87)    |
+| [TennisMatchScoreboard](https://github.com/u-cha/TennisMatchScoreboard) | [u-cha](https://github.com/u-cha) | Python |   📝 [Notes](https://gist.github.com/zhukovsd/8c6a07afd054725ae73a57b48f182e87)    |
 | [Tennis_Match_Scoreboard](https://github.com/Asenim/Tennis_Match_Scoreboard) | [Asenim](https://github.com/Asenim) | Python |  |
 | [TennisScoreboard](https://github.com/Victor-Smirnoff/TennisScoreboard) | [Victor-Smirnoff](https://github.com/Victor-Smirnoff) | Python |  |
 
