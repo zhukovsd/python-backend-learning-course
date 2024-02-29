@@ -44,6 +44,8 @@
 | [currency_exchange](https://github.com/Victor-Smirnoff/currency_exchange) | [Victor-Smirnoff](https://github.com/Victor-Smirnoff) | Python |  |
 | [Exchange_progect](https://github.com/PavelFurochkin/Exchange_progect) | [PavelFurochkin](https://github.com/PavelFurochkin) | Python |  |
 | [CurrencyExchange](https://github.com/ekataeva/CurrencyExchange) | [ekataeva](https://github.com/ekataeva) | Python |  |
+| [currency_exchange_FastAPI](https://github.com/Victor-Smirnoff/currency_exchange_FastAPI) | [Victor-Smirnoff](https://github.com/Victor-Smirnoff) | Python |                                                                             |
+
 
 
 ## Табло теннисного матча
