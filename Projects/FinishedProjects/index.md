@@ -21,6 +21,7 @@
 | [Hungman](https://github.com/Igor23232023/Hungman) | [Igor23232023](https://github.com/Igor23232023) | Python |  |
 | [Hangman](https://github.com/Jlumon4ek/Hangman) | [Jlumon4ek](https://github.com/Jlumon4ek) | Python |
 | [hangman](https://github.com/litvinovanton7/hangman)          | [itvinovanton7](https://github.com/litvinovanton7) | Python |                   |
+| [hangman](https://github.com/runtheroad/hangman)                                      | [runtheroad](https://github.com/runtheroad)       | Python |                                                                          |
 
 ## Симуляция
 
