@@ -8,7 +8,7 @@
 
 - [Python]({{ site.baseurl }}/Technologies/Python/) - коллекции, ООП
 - [Паттерн MVC(S)]({{ site.baseurl }}/Technologies/Python/#mvc) 
-- [Maven/Gradle]({{ site.baseurl }}/Technologies/BuildSystems/)
+- PIP/Poetry
 - [Backend]({{ site.baseurl }}/Technologies/Backend/)
   - uWSGI, Waitress
   - Веб - GET и POST запросы, формы
