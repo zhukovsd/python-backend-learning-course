@@ -8,12 +8,12 @@
 
 ТЗ проекта - [https://zhukovsd.github.io/python-backend-learning-course/Projects/Hangman/](https://zhukovsd.github.io/python-backend-learning-course/Projects/Hangman/)
 
-| Репозиторий                                                        | Автор                                               | Язык   | Ревью                                                                                                                                                      | 
-|--------------------------------------------------------------------|-----------------------------------------------------|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Hangman](https://github.com/u-cha/Hangman)                        | [u-cha](https://github.com/u-cha)                   | Python | 🎬 [https://t.me/zhukovsd_it_chat/691](https://t.me/zhukovsd_it_chat/691), 📝 [Notes](https://gist.github.com/zhukovsd/cfa5ae5f20b85f77316ef487460c7275)   |
+| Репозиторий                                                        | Автор                                               | Язык   | Ревью                                                                                                                                                      | Автор ревью |
+|--------------------------------------------------------------------|-----------------------------------------------------|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| [Hangman](https://github.com/u-cha/Hangman)                        | [u-cha](https://github.com/u-cha)                   | Python | 🎬 [Видео](https://t.me/zhukovsd_it_chat/691), 📝 [Заметки](https://gist.github.com/zhukovsd/cfa5ae5f20b85f77316ef487460c7275)   | [@zhukovsd](@zhukovsd) |
 | [project_hanged](https://github.com/PavelFurochkin/project_hanged) | [PavelFurochkin](https://github.com/PavelFurochkin) | Python |                                                                                                                                                            |
-| [Hangman](https://github.com/ekataeva/Hangman)                     | [ekataeva](https://github.com/ekataeva)             | Python | 🎬 [https://t.me/zhukovsd_it_chat/5908](https://t.me/zhukovsd_it_chat/5908), 📝 [Notes](https://gist.github.com/zhukovsd/a8cfe55a79518b595633dc65cc7adfa7) |
-| [HangmanGame](https://github.com/feduuusha/HangmanGame)            | [feduuusha](https://github.com/feduuusha)           | Python | 📝 [https://t.me/zhukovsd_it_chat/9408](https://t.me/zhukovsd_it_chat/9408)                                                                                |
+| [Hangman](https://github.com/ekataeva/Hangman)                     | [ekataeva](https://github.com/ekataeva)             | Python | 🎬 [Видео](https://t.me/zhukovsd_it_chat/5908), 📝 [Заметки](https://gist.github.com/zhukovsd/a8cfe55a79518b595633dc65cc7adfa7) | [@zhukovsd](@zhukovsd) |
+| [HangmanGame](https://github.com/feduuusha/HangmanGame)            | [feduuusha](https://github.com/feduuusha)           | Python | 📝 [Заметки](https://t.me/zhukovsd_it_chat/9408)                                                                                | [@zhukovsd](@zhukovsd) |
 | [Hungman_python](https://github.com/Drowchik/Hungman_python)       | [Drowchik](https://github.com/Drowchik)             | Python |                                                                                                                                                            |
 | [hangman](https://github.com/Victor-Smirnoff/hangman) | [Victor-Smirnoff](https://github.com/Victor-Smirnoff) | Python |  |
 | [hangman](https://github.com/swssb/hangman) | [swssb](https://github.com/swssb) | Python |  |
@@ -22,30 +22,35 @@
 | [Hangman](https://github.com/Jlumon4ek/Hangman) | [Jlumon4ek](https://github.com/Jlumon4ek) | Python |
 | [hangman](https://github.com/litvinovanton7/hangman)          | [itvinovanton7](https://github.com/litvinovanton7) | Python |                   |
 | [hangman](https://github.com/runtheroad/hangman)                                      | [runtheroad](https://github.com/runtheroad)       | Python |                                                                          |
+| [Hangman](https://gitverse.ru/killer7897/Hangman/content/master)                  | [killer7897](https://gitverse.ru/killer7897)  | Python |                                                                            |                              |
+| [GallowsGame](https://github.com/EgorFurman/GallowsGame)                          | [EgorFurman](https://github.com/EgorFurman)   | Python | [Заметки](https://gist.github.com/Asenim/41863eb98f37fb35e19f5c483617641d) | Сергей Удачин                |
+| [Game_Hangman](https://github.com/Awakary/Game_Hangman)                           | [Awakary](https://github.com/Awakary)         | Python | [Заметки](https://gist.github.com/Asenim/34af01cc3b1556b04ad65780364595d4) | Сергей Удачин                |
+
 
 ## Симуляция
 
 ТЗ проекта - [https://zhukovsd.github.io/python-backend-learning-course/Projects/Simulation/](https://zhukovsd.github.io/python-backend-learning-course/Projects/Simulation/)
 
-| Репозиторий                                                                | Автор                                               | Язык   | Ревью                                                                                                                                                      |
-|----------------------------------------------------------------------------|-----------------------------------------------------|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Simulation_Console_App](https://github.com/Asenim/Simulation_Console_App) | [Asenim](https://github.com/Asenim)                 | Python | 🎬 [https://youtu.be/Ctyha5ec0LE](https://youtu.be/Ctyha5ec0LE)                                                                                            |
-| [Simulation](https://github.com/u-cha/Simulation)                          | [u-cha](https://github.com/u-cha/)                  | Python | 🎬 [https://t.me/zhukovsd_it_chat/2444](https://t.me/zhukovsd_it_chat/2444), 📝 [Notes](https://gist.github.com/zhukovsd/6a98fcc2b7192c08b6e91efd73129dd3) |
-| [Simulation](https://github.com/PavelFurochkin/Simulation)                 | [PavelFurochkin](https://github.com/PavelFurochkin) | Python | 🎬 [https://t.me/zhukovsd_it_chat/4010](https://t.me/zhukovsd_it_chat/4010), 📝 [Notes](https://gist.github.com/zhukovsd/8762a8404c2d3a4e91a0fe1905802840) |
-| [Simulation](https://github.com/ekataeva/Simulation)                       | [ekataeva](https://github.com/ekataeva)             | Python | 📝 [https://t.me/zhukovsd_it_chat/14115](https://t.me/zhukovsd_it_chat/14115)                                                                              |
+| Репозиторий                                                                | Автор                                               | Язык   | Ревью                                                                                                                                                      | Автор ревью |
+|----------------------------------------------------------------------------|-----------------------------------------------------|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| [Simulation_Console_App](https://github.com/Asenim/Simulation_Console_App) | [Asenim](https://github.com/Asenim)                 | Python | 🎬 [Видео](https://youtu.be/Ctyha5ec0LE)                                                                                            | [@zhukovsd](@zhukovsd) |
+| [Simulation](https://github.com/u-cha/Simulation)                          | [u-cha](https://github.com/u-cha/)                  | Python | 🎬 [Видео](https://t.me/zhukovsd_it_chat/2444), 📝 [Заметки](https://gist.github.com/zhukovsd/6a98fcc2b7192c08b6e91efd73129dd3) | [@zhukovsd](@zhukovsd) |
+| [Simulation](https://github.com/PavelFurochkin/Simulation)                 | [PavelFurochkin](https://github.com/PavelFurochkin) | Python | 🎬 [Видео](https://t.me/zhukovsd_it_chat/4010), 📝 [Заметки](https://gist.github.com/zhukovsd/8762a8404c2d3a4e91a0fe1905802840) | [@zhukovsd](@zhukovsd) |
+| [Simulation](https://github.com/ekataeva/Simulation)                       | [ekataeva](https://github.com/ekataeva)             | Python | 📝 [Заметки](https://t.me/zhukovsd_it_chat/14115)                                                                              | [@zhukovsd](@zhukovsd) |
 | [simulation](https://github.com/Victor-Smirnoff/simulation) | [Victor-Smirnoff](https://github.com/Victor-Smirnoff) | Python |  |
 
 ## Обмен валют
 
 ТЗ проекта - [https://zhukovsd.github.io/python-backend-learning-course/Projects/CurrencyExchange/](https://zhukovsd.github.io/python-backend-learning-course/Projects/CurrencyExchange/)
 
-| Репозиторий                                                    | Автор                               | Язык   | Ревью                                                                                                                                                      |
-|----------------------------------------------------------------|-------------------------------------|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [CurrencyExchange](https://github.com/Asenim/CurrencyExchange) | [Asenim](https://github.com/Asenim) | Python | 🎬 [https://t.me/zhukovsd_it_chat/3027](https://t.me/zhukovsd_it_chat/3027), 📝 [Notes](https://gist.github.com/zhukovsd/fccfdb588e3bea48db17f39a0b851d32) |
+| Репозиторий                                                    | Автор                               | Язык   | Ревью                                                                                                                                                      | Автор ревью |
+|----------------------------------------------------------------|-------------------------------------|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
+| [CurrencyExchange](https://github.com/Asenim/CurrencyExchange) | [Asenim](https://github.com/Asenim) | Python | 🎬 [Видео](https://t.me/zhukovsd_it_chat/3027), 📝 [Заметки](https://gist.github.com/zhukovsd/fccfdb588e3bea48db17f39a0b851d32) | [@zhukovsd](@zhukovsd) |
 | [currency_exchange](https://github.com/Victor-Smirnoff/currency_exchange) | [Victor-Smirnoff](https://github.com/Victor-Smirnoff) | Python |  |
 | [Exchange_progect](https://github.com/PavelFurochkin/Exchange_progect) | [PavelFurochkin](https://github.com/PavelFurochkin) | Python |  |
 | [CurrencyExchange](https://github.com/ekataeva/CurrencyExchange) | [ekataeva](https://github.com/ekataeva) | Python |  |
 | [currency_exchange_FastAPI](https://github.com/Victor-Smirnoff/currency_exchange_FastAPI) | [Victor-Smirnoff](https://github.com/Victor-Smirnoff) | Python |                                                                             |
+| [Exchange_Rate](https://github.com/Anikavuk/Exchange_Rate)                            | [Anikavuk](https://github.com/Anikavuk)                                   | Python |                                                                            |                      |
 
 
 
@@ -53,9 +58,9 @@
 
 ТЗ проекта - [https://zhukovsd.github.io/python-backend-learning-course/Projects/TennisScoreboard/](https://zhukovsd.github.io/python-backend-learning-course/Projects/TennisScoreboard/)
 
-| Репозиторий                                                             | Автор                             | Язык   | Ревью |
-|-------------------------------------------------------------------------|-----------------------------------|--------|-------|
-| [TennisMatchScoreboard](https://github.com/u-cha/TennisMatchScoreboard) | [u-cha](https://github.com/u-cha) | Python |   📝 [Notes](https://gist.github.com/zhukovsd/8c6a07afd054725ae73a57b48f182e87)    |
+| Репозиторий                                                             | Автор                             | Язык   | Ревью | Автор ревью |
+|-------------------------------------------------------------------------|-----------------------------------|--------|-------|-------------|
+| [TennisMatchScoreboard](https://github.com/u-cha/TennisMatchScoreboard) | [u-cha](https://github.com/u-cha) | Python |   📝 [Заметки](https://gist.github.com/zhukovsd/8c6a07afd054725ae73a57b48f182e87)    | [@zhukovsd](@zhukovsd) |
 | [Tennis_Match_Scoreboard](https://github.com/Asenim/Tennis_Match_Scoreboard) | [Asenim](https://github.com/Asenim) | Python |  |
 | [TennisScoreboard](https://github.com/Victor-Smirnoff/TennisScoreboard) | [Victor-Smirnoff](https://github.com/Victor-Smirnoff) | Python |  |
 
@@ -86,7 +91,7 @@
 
 Проекты вне курса, которые студенты писали по своей инициативе или по моему совету.
 
-| Проект          | Репозиторий                                                | Автор                                               | Язык   | Ревью                                                                       |
-|-----------------|------------------------------------------------------------|-----------------------------------------------------|--------|-----------------------------------------------------------------------------|
+| Проект          | Репозиторий                                                | Автор                                               | Язык   | Ревью                                                                       | Автор ревью |
+|-----------------|------------------------------------------------------------|-----------------------------------------------------|--------|-----------------------------------------------------------------------------|-------------|
 | Покер на костях | [dice_poker](https://github.com/PavelFurochkin/dice_poker) | [PavelFurochkin](https://github.com/PavelFurochkin) | Python |                                                                             |
-| Flight API      | [FlightAPI](https://github.com/u-cha/FlightAPI)            | [u-cha](https://github.com/u-cha)                   | Python | 🎬 [https://t.me/zhukovsd_it_chat/7974](https://t.me/zhukovsd_it_chat/7974) |
+| Flight API      | [FlightAPI](https://github.com/u-cha/FlightAPI)            | [u-cha](https://github.com/u-cha)                   | Python | 🎬 [Видео](https://t.me/zhukovsd_it_chat/7974) | [@zhukovsd](@zhukovsd) |
