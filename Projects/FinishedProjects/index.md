@@ -23,8 +23,11 @@
 | [hangman](https://github.com/litvinovanton7/hangman)          | [itvinovanton7](https://github.com/litvinovanton7) | Python |                   |
 | [hangman](https://github.com/runtheroad/hangman)                                      | [runtheroad](https://github.com/runtheroad)       | Python |                                                                          |
 | [Hangman](https://gitverse.ru/killer7897/Hangman/content/master)                  | [killer7897](https://gitverse.ru/killer7897)  | Python |                                                                            |                              |
-| [GallowsGame](https://github.com/EgorFurman/GallowsGame)                          | [EgorFurman](https://github.com/EgorFurman)   | Python | [Заметки](https://gist.github.com/Asenim/41863eb98f37fb35e19f5c483617641d) | Сергей Удачин                |
-| [Game_Hangman](https://github.com/Awakary/Game_Hangman)                           | [Awakary](https://github.com/Awakary)         | Python | [Заметки](https://gist.github.com/Asenim/34af01cc3b1556b04ad65780364595d4) | Сергей Удачин                |
+| [GallowsGame](https://github.com/EgorFurman/GallowsGame)                          | [EgorFurman](https://github.com/EgorFurman)   | Python | 📝 [Заметки](https://gist.github.com/Asenim/41863eb98f37fb35e19f5c483617641d) | Сергей Удачин                |
+| [Game_Hangman](https://github.com/Awakary/Game_Hangman)                           | [Awakary](https://github.com/Awakary)         | Python | 📝 [Заметки](https://gist.github.com/Asenim/34af01cc3b1556b04ad65780364595d4) | Сергей Удачин                |
+| [hangman](https://github.com/sharakidu/hangman/) | [sharakidu](https://github.com/sharakidu) | Python |  |  |
+| [python_projects](https://github.com/stas-yarovikov/python_projects) | [stas-yarovikov](https://github.com/stas-yarovikov) | Python | 📝 [Заметки](https://gist.github.com/Asenim/676a25db922efef07d5aae8050534dff) | [Сергей Удачин](@grandpraline) |
+
 
 
 ## Симуляция
@@ -38,6 +41,8 @@
 | [Simulation](https://github.com/PavelFurochkin/Simulation)                 | [PavelFurochkin](https://github.com/PavelFurochkin) | Python | 🎬 [Видео](https://t.me/zhukovsd_it_chat/4010), 📝 [Заметки](https://gist.github.com/zhukovsd/8762a8404c2d3a4e91a0fe1905802840) | [@zhukovsd](@zhukovsd) |
 | [Simulation](https://github.com/ekataeva/Simulation)                       | [ekataeva](https://github.com/ekataeva)             | Python | 📝 [Заметки](https://t.me/zhukovsd_it_chat/14115)                                                                              | [@zhukovsd](@zhukovsd) |
 | [simulation](https://github.com/Victor-Smirnoff/simulation) | [Victor-Smirnoff](https://github.com/Victor-Smirnoff) | Python |  |
+| [Simulation](https://github.com/Awakary/Simulation) | [Awakary](https://github.com/Awakary) | Python | 📝 [Заметки](https://gist.github.com/Asenim/20fb1148b14ed443c67919ca8534b8b3) | [Сергей Удачин](@grandpraline) |
+
 
 ## Обмен валют
 
@@ -51,6 +56,8 @@
 | [CurrencyExchange](https://github.com/ekataeva/CurrencyExchange) | [ekataeva](https://github.com/ekataeva) | Python |  |
 | [currency_exchange_FastAPI](https://github.com/Victor-Smirnoff/currency_exchange_FastAPI) | [Victor-Smirnoff](https://github.com/Victor-Smirnoff) | Python |                                                                             |
 | [Exchange_Rate](https://github.com/Anikavuk/Exchange_Rate)                            | [Anikavuk](https://github.com/Anikavuk)                                   | Python |                                                                            |                      |
+| [currency_exchange](https://github.com/mbylinkin/currency_exchange) | [mbylinkin](https://github.com/mbylinkin) | Python |  |  |
+
 
 
 
