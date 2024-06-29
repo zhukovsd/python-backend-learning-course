@@ -27,6 +27,9 @@
 | [Game_Hangman](https://github.com/Awakary/Game_Hangman)                           | [Awakary](https://github.com/Awakary)         | Python | 📝 [Заметки](https://gist.github.com/Asenim/34af01cc3b1556b04ad65780364595d4) | [Сергей Удачин](https://t.me/grandpraline)                |
 | [hangman](https://github.com/sharakidu/hangman/) | [sharakidu](https://github.com/sharakidu) | Python |  |  |
 | [python_projects](https://github.com/stas-yarovikov/python_projects) | [stas-yarovikov](https://github.com/stas-yarovikov) | Python | 📝 [Заметки](https://gist.github.com/Asenim/676a25db922efef07d5aae8050534dff) | [Сергей Удачин](https://t.me/grandpraline) |
+| [Hangman-Game](https://github.com/Y1-Bit/Hangman-Game) | [Y1-Bit](https://github.com/Y1-Bit) | Python |  |  |
+| [hang_man_project](https://github.com/stas-yarovikov/hang_man_project) | [stas-yarovikov](https://github.com/stas-yarovikov) | Python |  |  |
+
 
 
 
@@ -42,6 +45,9 @@
 | [Simulation](https://github.com/ekataeva/Simulation)                       | [ekataeva](https://github.com/ekataeva)             | Python | 📝 [Заметки](https://t.me/zhukovsd_it_chat/14115)                                                                              | [@zhukovsd](https://t.me/zhukovsd) |
 | [simulation](https://github.com/Victor-Smirnoff/simulation) | [Victor-Smirnoff](https://github.com/Victor-Smirnoff) | Python |  |
 | [Simulation](https://github.com/Awakary/Simulation) | [Awakary](https://github.com/Awakary) | Python | 📝 [Заметки](https://gist.github.com/Asenim/20fb1148b14ed443c67919ca8534b8b3) | [Сергей Удачин](https://t.me/grandpraline) |
+| [Simulation](https://github.com/EgorFurman/Simulation) | [EgorFurman](https://github.com/EgorFurman) | Python | 📝 [Заметки](https://gist.github.com/Asenim/50eae3ef698d1a6fca1cb39ab0cca846) | [Иван](http://t.me/makeitvsolo) |
+| [Simulation](https://github.com/Anikavuk/Simulation) | [Anikavuk](https://github.com/Anikavuk) | Python |  |  |
+
 
 
 ## Обмен валют
