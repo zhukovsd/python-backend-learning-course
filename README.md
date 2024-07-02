@@ -54,7 +54,7 @@
 - [Python](Technologies/Python/)
 - [Backend](Technologies/Backend/)
 - [Базы данных](Technologies/Databases/)
-- [Системы сборки](Technologies/BuildSystems/)
+- [Управление зависимостями](Technologies/DependencyManagement/)
 - [DevOps](Technologies/DevOps/) - Git, деплой, CI/CD
 - [Frontend](Technologies/Frontend/)
 - [Тестирование](Technologies/Tests)
