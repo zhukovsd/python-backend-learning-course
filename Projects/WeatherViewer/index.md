@@ -6,7 +6,7 @@
 
 - [Python]({{ site.baseurl }}/Technologies/Python/) - коллекции, ООП
 - [Паттерн MVC(S)]({{ site.baseurl }}/Technologies/Python/#mvc) 
-- [Virtualenv/Poetry]({{ site.baseurl }}/Technologies/BuildSystems/)
+- [pip/Poetry]({{ site.baseurl }}/Technologies/DependencyManagement/)
 - [Backend]({{ site.baseurl }}/Technologies/Backend/)
   - Django
 - [Базы данных]({{ site.baseurl }}/Technologies/Databases/)
