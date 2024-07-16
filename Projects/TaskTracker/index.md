@@ -7,15 +7,15 @@
 - [Python]({{ site.baseurl }}/Technologies/Python/) - коллекции, ООП
 - [pip/Poetry]({{ site.baseurl }}/Technologies/DependencyManagement/)
 - [Backend]({{ site.baseurl }}/Technologies/Backend/)
-  - [FastApi](https://fastapi.tiangolo.com/)
-  - [Celery](https://docs.celeryq.dev/en/stable/userguide/index.html)
+  - FastAPI
 - [Базы данных]({{ site.baseurl }}/Technologies/Databases/)
   - PostreSQL
-  - [SQLAlchemy](https://www.sqlalchemy.org/)
+  - SQLAlchemy
 - [Frontend]({{ site.baseurl }}/Technologies/Frontend/) - HTML/CSS, Bootstrap, Javascript, Ajax
 - [Docker и микросервисы]({{ site.baseurl }}/Technologies/Microservices/)
   - Контейнеры, образы, volumes, написание Dockerfile, Docker Compose
   - Брокер сообщений RabbitMQ
+  - Celery
 - [DevOps]({{ site.baseurl }}/Technologies/DevOps/)
   - Деплой
   - CI/CD, GitHub Actions
