@@ -1,22 +1,27 @@
++++
+title = 'Планировщик задач'
+weight = 7
++++
+
 # Проект "Планировщик задач"
 
 Многопользовательский планировщик задач. Пользователи могут использовать его в качестве TODO листа. Источником вдохновения для проекта является Trello.
 
 ## Что нужно знать
 
-- [Python]({{ site.baseurl }}/Technologies/Python/) - коллекции, ООП
-- [pip/Poetry]({{ site.baseurl }}/Technologies/DependencyManagement/)
-- [Backend]({{ site.baseurl }}/Technologies/Backend/)
+- [Python](../technologies/python.md) - коллекции, ООП
+- [pip/Poetry](../technologies/dependency-management.md)
+- [Backend](../technologies/backend.md)
   - FastAPI
-- [Базы данных]({{ site.baseurl }}/Technologies/Databases/)
+- [Базы данных](../technologies/databases.md)
   - PostreSQL
   - SQLAlchemy
-- [Frontend]({{ site.baseurl }}/Technologies/Frontend/) - HTML/CSS, Bootstrap, Javascript, Ajax
-- [Docker и микросервисы]({{ site.baseurl }}/Technologies/Microservices/)
+- [Frontend](../technologies/frontend.md) - HTML/CSS, Bootstrap, Javascript, Ajax
+- [Docker и микросервисы](../technologies/microservices.md)
   - Контейнеры, образы, volumes, написание Dockerfile, Docker Compose
   - Брокер сообщений RabbitMQ
   - Celery
-- [DevOps]({{ site.baseurl }}/Technologies/DevOps/)
+- [DevOps](../technologies/dev-ops.md)
   - Деплой
   - CI/CD, GitHub Actions
 
@@ -115,9 +120,9 @@ FastAPI приложение, реализующее REST API для работ�
 
 Пример ответа с ошибкой - "this email is already taken" - HTTP code 409:
 
-```
+```json
 {
-    "message" - "This email is already taken"
+    "message": "This email is already taken"
 }
 ```
 
@@ -132,7 +137,7 @@ FastAPI приложение, реализующее REST API для работ�
 
 Пример ответа с кодом HTTP 200:
 
-```
+```json
 {
     "id": 1,
     "email": "my@email.com"
@@ -271,3 +276,8 @@ RabbitMQ в контексте docker compose стека будет запуще
 - Backend - отправка приветственного письма при регистрации
 - Scheduler - отправка пользовательских отчетов по сделанным и оставшимся задачам
 - CI/CD, деплой
+
+## Ресурсы для работы над ошибками
+
+- [Реализации проекта](../finished-projects.md#планировщик-задач) другими студентами и мои ревью этих реализаций 
+- Готовый проект можете отправить мне на ревью - [https://t.me/zhukovsd](https://t.me/zhukovsd)

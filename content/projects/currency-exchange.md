@@ -1,4 +1,9 @@
-## Проект "Обмен валют"
++++
+title = 'Обмен валют'
+weight = 3
++++
+
+# Проект "Обмен валют"
 
 REST API для описания валют и обменных курсов. Позволяет просматривать и редактировать списки валют и обменных курсов, и совершать расчёт конвертации произвольных сумм из одной валюты в другую.
 
@@ -8,14 +13,14 @@ REST API для описания валют и обменных курсов. П
 
 ## Что нужно знать
 
-- [Python]({{ site.baseurl }}/Technologies/Python/) - коллекции, ООП
-- [Паттерн MVC(S)]({{ site.baseurl }}/Technologies/Python/#mvc) 
-- [Backend]({{ site.baseurl }}/Technologies/Backend/)
+- [Python](../technologies/python.md) - коллекции, ООП
+- [Паттерн MVC(S)](../technologies/python.md#mvc) 
+- [Backend](../technologies/backend.md)
   - [http.server](https://docs.python.org/3/library/http.server.html)
   - HTTP - GET и POST запросы, коды ответа
   - REST API, JSON
-- [Базы данных]({{ site.baseurl }}/Technologies/Databases/) - [sqlite3](https://docs.python.org/3/library/sqlite3.html)
-- [Деплой]({{ site.baseurl }}/Technologies/DevOps/#деплой) - облачный хостинг, командная строка Linux
+- [Базы данных](../technologies/databases.md) - [sqlite3](https://docs.python.org/3/library/sqlite3.html)
+- [Деплой](../technologies/dev-ops.md#деплой) - облачный хостинг, командная строка Linux
 
 Фреймворки не используем.
 
@@ -322,10 +327,10 @@ HTTP коды ответов:
 
 ## Ресурсы для работы над ошибками
 
-- Реализации проекта другими студентами и мои ревью этих реализаций - [https://zhukovsd.github.io/python-backend-learning-course/Projects/FinishedProjects](https://zhukovsd.github.io/python-backend-learning-course/Projects/FinishedProjects)
+- [Реализации проекта](../finished-projects.md#обмен-валют) другими студентами и мои ревью этих реализаций 
 - Чеклист для самопроверки с типовыми ошибками (в конце страницы)
 - Готовый проект можете отправить мне на ревью - [https://t.me/zhukovsd](https://t.me/zhukovsd)
-  - **[Обновление от 7 сентября 2023]** - целевое количество видео и текстовых ревью проекта "Обмен валют" накоплено, новые реализации к ревью не принимаются. В любом случае призываю отправлять законченные проекты в [чат](https://t.me/zhukovsd_it_chat), добавляю их в [список](https://zhukovsd.github.io/python-backend-learning-course/Projects/FinishedProjects/). Подробности - [https://t.me/zhukovsd_it_mentor/57](https://t.me/zhukovsd_it_mentor/57) 
+  - **[Обновление от 7 сентября 2023]** - целевое количество видео и текстовых ревью проекта "Обмен валют" накоплено, новые реализации к ревью не принимаются. В любом случае призываю отправлять законченные проекты в [чат](https://t.me/zhukovsd_it_chat), добавляю их в [список](../finished-projects.md#обмен-валют). Подробности - [https://t.me/zhukovsd_it_mentor/57](https://t.me/zhukovsd_it_mentor/57) 
 
 ## Тестовый фронтенд
 

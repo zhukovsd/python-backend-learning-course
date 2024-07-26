@@ -1,20 +1,25 @@
++++
+title = 'Погода'
+weight = 5
++++
+
 # Проект "Погода"
 
 Веб-приложение для просмотра текущей погоды. Пользователь может зарегистрироваться и добавить в коллекцию один или несколько локаций (городов, сёл, других пунктов), после чего главная страница приложения начинает отображать список локаций с их текущей погодой.
 
 ## Что нужно знать
 
-- [Python]({{ site.baseurl }}/Technologies/Python/) - коллекции, ООП
-- [Паттерн MVC(S)]({{ site.baseurl }}/Technologies/Python/#mvc) 
-- [pip/Poetry]({{ site.baseurl }}/Technologies/DependencyManagement/)
-- [Backend]({{ site.baseurl }}/Technologies/Backend/)
+- [Python](../technologies/python.md) - коллекции, ООП
+- [Паттерн MVC(S)](../technologies/python.md#mvc) 
+- [pip/Poetry](../technologies/dependency-management.md)
+- [Backend](../technologies/backend.md)
   - Django
-- [Базы данных]({{ site.baseurl }}/Technologies/Databases/)
+- [Базы данных](../technologies/databases.md)
   - Postgres
   - DjangoORM
-- [Frontend]({{ site.baseurl }}/Technologies/Frontend/) - HTML/CSS, Bootstrap
-- [Тесты]({{ site.baseurl }}/Technologies/Tests/) - интеграционное тестирование, моки
-- [Деплой]({{ site.baseurl }}/Technologies/DevOps/#деплой) - облачный хостинг, командная строка Linux
+- [Frontend](../technologies/frontend.md) - HTML/CSS, Bootstrap
+- [Тесты](../technologies/tests.md) - интеграционное тестирование, моки
+- [Деплой](../technologies/dev-ops.md#деплой) - облачный хостинг, командная строка Linux
 
 ## Мотивация проекта
 
@@ -177,3 +182,8 @@
 - Реализовать бизнес логику приложения - поиск, добавление, удаление локаций, просмотр погоды
 - Создать интерфейс главной страницы и страницы поиска локаций
 - Деплой
+
+## Ресурсы для работы над ошибками
+
+- [Реализации проекта](../finished-projects.md#погода) другими студентами и мои ревью этих реализаций 
+- Готовый проект можете отправить мне на ревью - [https://t.me/zhukovsd](https://t.me/zhukovsd)

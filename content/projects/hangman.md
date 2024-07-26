@@ -1,3 +1,8 @@
++++
+title = 'Виселица'
+weight = 1
++++
+
 # Проект "Виселица"
 
 Задача - реализовать игру "виселица". Интерфейс - консольный. Описание правил игры на [Википедии](https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D1%81%D0%B5%D0%BB%D0%B8%D1%86%D0%B0_(%D0%B8%D0%B3%D1%80%D0%B0)).
@@ -6,7 +11,7 @@
 
 ## Что нужно знать
 
-- [Python]({{ site.baseurl }}/Technologies/Python/) - базовый синтаксис
+- [Python](../technologies/python.md) - базовый синтаксис
 
 ## Мотивация проекта
 
@@ -34,10 +39,10 @@
 ## Ресурсы для работы над ошибками
 
 - Эталонная [реализация проекта](https://github.com/zhukovsd/tic-tac-toe) похожего уровня сложности, написанного на [стриме](https://www.youtube.com/watch?v=PPikj1qHxrA)
-- Реализации проекта другими студентами и мои ревью этих реализаций - [https://zhukovsd.github.io/python-backend-learning-course/Projects/FinishedProjects](https://zhukovsd.github.io/python-backend-learning-course/Projects/FinishedProjects)
+- [Реализации проекта](../finished-projects.md#виселица) другими студентами и мои ревью этих реализаций 
 - Чеклист для самопроверки с типовыми ошибками (в конце страницы)
 - Готовый проект можете отправить мне на ревью - [https://t.me/zhukovsd](https://t.me/zhukovsd)
-  - **[Обновление от 7 сентября 2023]** - целевое количество видео и текстовых ревью проекта "Виселица" накоплено, новые реализации к ревью не принимаются. В любом случае призываю отправлять законченные проекты в [чат](https://t.me/zhukovsd_it_chat), добавляю их в [список](https://zhukovsd.github.io/python-backend-learning-course/Projects/FinishedProjects/). Подробности - [https://t.me/zhukovsd_it_mentor/57](https://t.me/zhukovsd_it_mentor/57) 
+  - **[Обновление от 7 сентября 2023]** - целевое количество видео и текстовых ревью проекта "Виселица" накоплено, новые реализации к ревью не принимаются. В любом случае призываю отправлять законченные проекты в [чат](https://t.me/zhukovsd_it_chat), добавляю их в [список](../finished-projects.md#виселица). Подробности - [https://t.me/zhukovsd_it_mentor/57](https://t.me/zhukovsd_it_mentor/57) 
 
 ## Чеклист для самопроверки
 

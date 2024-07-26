@@ -1,22 +1,27 @@
-# Проект "облачное хранилище файлов"
++++
+title = 'Облачное хранилище файлов'
+weight = 6
++++
+
+# Проект "Облачное хранилище файлов"
 
 Многопользовательское файловое облако. Пользователи сервиса могут использовать его для загрузки и хранения файлов. Источником вдохновения для проекта является Google Drive.
 
 ## Что нужно знать
 
-- [Python]({{ site.baseurl }}/Technologies/Python/) - коллекции, ООП
-- [pip/Poetry]({{ site.baseurl }}/Technologies/DependencyManagement/)
-- [Backend]({{ site.baseurl }}/Technologies/Backend/)
+- [Python](../technologies/python.md) - коллекции, ООП
+- [pip/Poetry](../technologies/dependency-management.md)
+- [Backend](../technologies/backend.md)
   - Django
   - Upload файлов, заголовки HTTP запросов, cookies, cессии
-- [Базы данных]({{ site.baseurl }}/Technologies/Databases/)
+- [Базы данных](../technologies/databases.md)
   - PostreSQL
   - DjangoORM
   - Представление о NoSQL хранилищах
-- [Frontend]({{ site.baseurl }}/Technologies/Frontend/) - HTML/CSS, Bootstrap
-- [Docker]({{ site.baseurl }}/Technologies/Microservices/#docker) - контейнеры, образы, volumes, Docker Compose
-- [Тесты]({{ site.baseurl }}/Technologies/Tests/) - интеграционное тестирование, TestCase, LiveServerTestCase
-- [Деплой]({{ site.baseurl }}/Technologies/DevOps/#деплой) - облачный хостинг, командная строка Linux
+- [Frontend](../technologies/frontend.md) - HTML/CSS, Bootstrap
+- [Docker](../technologies/microservices.md#docker) - контейнеры, образы, volumes, Docker Compose
+- [Тесты](../technologies/tests.md) - интеграционное тестирование, TestCase, LiveServerTestCase
+- [Деплой](../technologies/dev-ops.md#деплой) - облачный хостинг, командная строка Linux
 
 ## Мотивация проекта
 
@@ -192,3 +197,7 @@ File input может быть использован для загрузки л
 - Поиск файлов - сервис, контроллер и Jinja2 шаблон
 - (Опционально) интеграционные тесты для сервиса, отвечающего за работу с файлами и папками
 - Деплой
+
+## Ресурсы для работы над ошибками
+
+- Готовый проект можете отправить мне на ревью - [https://t.me/zhukovsd](https://t.me/zhukovsd)

@@ -1,4 +1,9 @@
-# Проект "табло теннисного матча"
++++
+title = 'Табло теннисного матча'
+weight = 4
++++
+
+# Проект "Табло теннисного матча"
 
 Веб-приложение, реализующее табло счёта теннисного матча.
 
@@ -6,17 +11,17 @@
 
 ## Что нужно знать
 
-- [Python]({{ site.baseurl }}/Technologies/Python/) - коллекции, ООП
-- [Паттерн MVC(S)]({{ site.baseurl }}/Technologies/Python/#mvc) 
-- [pip/Poetry]({{ site.baseurl }}/Technologies/DependencyManagement/)
-- [Backend]({{ site.baseurl }}/Technologies/Backend/)
+- [Python](../technologies/python.md) - коллекции, ООП
+- [Паттерн MVC(S)](../technologies/python.md#mvc) 
+- [pip/Poetry](../technologies/dependency-management.md)
+- [Backend](../technologies/backend.md)
   - uWSGI, Waitress
   - Веб - GET и POST запросы, формы
   - Jinja2
-- [Базы данных]({{ site.baseurl }}/Technologies/Databases/) - MySQL, SQLAlchemy
-- [Frontend]({{ site.baseurl }}/Technologies/Frontend/) - HTML/CSS, блочная вёрстка
-- [Тесты]({{ site.baseurl }}/Technologies/Tests/) - юнит тестирование
-- [Деплой]({{ site.baseurl }}/Technologies/DevOps/#деплой) - облачный хостинг, командная строка Linux
+- [Базы данных](../technologies/databases.md) - MySQL, SQLAlchemy
+- [Frontend](../technologies/frontend.md) - HTML/CSS, блочная вёрстка
+- [Тесты](../technologies/tests.md) - юнит тестирование
+- [Деплой](../technologies/dev-ops.md#деплой) - облачный хостинг, командная строка Linux
 
 ## Мотивация проекта
 
@@ -161,5 +166,5 @@ MVCS - архитектурный паттерн, особенно хорошо 
 
 ## Ресурсы для работы над ошибками
 
-- Реализации проекта другими студентами и мои ревью этих реализаций - [https://zhukovsd.github.io/python-backend-learning-course/Projects/FinishedProjects](https://zhukovsd.github.io/python-backend-learning-course/Projects/FinishedProjects)
+- [Реализации проекта](../finished-projects.md#табло-теннисного-матча) другими студентами и мои ревью этих реализаций 
 - Готовый проект можете отправить мне на ревью - [https://t.me/zhukovsd](https://t.me/zhukovsd)
