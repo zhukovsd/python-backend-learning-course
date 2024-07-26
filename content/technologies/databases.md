@@ -1,3 +1,8 @@
++++
+weight = 3
+title = 'Базы данных'
++++
+
 # Базы данных
 
 Документ посвящен знаниям по базам данных, необходимых для реализации проектов. Базы данных - один из ключевых навыков для бэкенд разработчиков.
@@ -17,7 +22,7 @@
 - Курс ["SQL для начинающих: с нуля до сертификата Oracle"](https://stepik.org/course/115617) Заура Трегулова - для начала достаточно глав 1-3, 6-7, 10-12
 - Практика:
   - Интерактивные задачи для практики синтаксиса - [https://app.codesignal.com/](https://app.codesignal.com/) (раздел Arcade - Databases)
-  - Проект #3 - ["Обмен валют"](../../Projects/CurrencyExchange/index.md)
+  - Проект #3 - ["Обмен валют"](../projects/currency-exchange.md)
 
 ## Python SQL connectors
 
@@ -35,7 +40,7 @@
 
 - [Плейлист по работе с SQLite от канала selfedu](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8x4Inr5oYttMK6J47vxgv6J)
 - Практика:
-  - Проект #3 - ["Обмен валют"](../../Projects/CurrencyExchange/index.md)
+  - Проект #3 - ["Обмен валют"](../projects/currency-exchange.md)
 
 ## ORM
 

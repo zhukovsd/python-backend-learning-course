@@ -1,3 +1,8 @@
++++
+weight = 2
+title = 'Backend'
++++
+
 # Backend
 
 Этот документ посвящён необходимым знаниям, относящихся к Python Backend, напрямую или косвенно.
@@ -48,7 +53,7 @@ REST - набор правил взаимодействия клиента и с
 
 - Статьи по REST на хабре - [#1](https://habr.com/ru/post/483202/), [#2](https://habr.com/ru/post/351890/)
 - Книга по дизайну REST API - [https://www.amazon.com/REST-Design-Rulebook-Mark-Masse/dp/1449310508](https://www.amazon.com/REST-Design-Rulebook-Mark-Masse/dp/1449310508)
-- Практика - проекты #3 ["Обмен валют"](../../Projects/CurrencyExchange/index.md) и #7 ["Планировщик задач"](../../Projects/TaskTracker/index.md) содержат примеры дизайна REST API
+- Практика - проекты #3 ["Обмен валют"](../projects/currency-exchange.md) и #7 ["Планировщик задач"](../projects/task-tracker.md) содержат примеры дизайна REST API
 
 ## Python
 
