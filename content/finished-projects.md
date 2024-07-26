@@ -1,12 +1,17 @@
++++
+title = 'Завершенные проекты'
+weight = 30
++++
+
 # Реализации проектов студентами
 
 Список реализаций проектов курса (и не только). Для каждого проекта указана ссылка на код, язык программирования/фреймворк, и ссылка на ревью.
 
-Полная версия таблицы с реализациями проектов на всех языках программирования, не только Python - [https://zhukovsd.github.io/java-backend-learning-course/Projects/FinishedProjects/](https://zhukovsd.github.io/java-backend-learning-course/Projects/FinishedProjects/).
+[Полная версия таблицы с реализациями проектов](https://zhukovsd.github.io/java-backend-learning-course/finished-projects) на всех языках программирования, не только Python.
 
 ## Виселица
 
-ТЗ проекта - [https://zhukovsd.github.io/python-backend-learning-course/Projects/Hangman/](https://zhukovsd.github.io/python-backend-learning-course/Projects/Hangman/)
+[ТЗ проекта](./projects/hangman.md)
 
 | Репозиторий                                                        | Автор                                               | Язык   | Ревью                                                                                                                                                      | Автор ревью |
 |--------------------------------------------------------------------|-----------------------------------------------------|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
@@ -35,7 +40,7 @@
 
 ## Симуляция
 
-ТЗ проекта - [https://zhukovsd.github.io/python-backend-learning-course/Projects/Simulation/](https://zhukovsd.github.io/python-backend-learning-course/Projects/Simulation/)
+[ТЗ проекта](./projects/simulation.md)
 
 | Репозиторий                                                                | Автор                                               | Язык   | Ревью                                                                                                                                                      | Автор ревью |
 |----------------------------------------------------------------------------|-----------------------------------------------------|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
@@ -52,7 +57,7 @@
 
 ## Обмен валют
 
-ТЗ проекта - [https://zhukovsd.github.io/python-backend-learning-course/Projects/CurrencyExchange/](https://zhukovsd.github.io/python-backend-learning-course/Projects/CurrencyExchange/)
+[ТЗ проекта](./projects/currency-exchange.md)
 
 | Репозиторий                                                    | Автор                               | Язык   | Ревью                                                                                                                                                      | Автор ревью |
 |----------------------------------------------------------------|-------------------------------------|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
@@ -69,7 +74,7 @@
 
 ## Табло теннисного матча
 
-ТЗ проекта - [https://zhukovsd.github.io/python-backend-learning-course/Projects/TennisScoreboard/](https://zhukovsd.github.io/python-backend-learning-course/Projects/TennisScoreboard/)
+[ТЗ проекта](./projects/tennis-scoreboard.md)
 
 | Репозиторий                                                             | Автор                             | Язык   | Ревью | Автор ревью |
 |-------------------------------------------------------------------------|-----------------------------------|--------|-------|-------------|
@@ -79,7 +84,7 @@
 
 ## Погода
 
-ТЗ проекта - [https://zhukovsd.github.io/python-backend-learning-course/Projects/WeatherViewer/](https://zhukovsd.github.io/python-backend-learning-course/Projects/WeatherViewer/)
+[ТЗ проекта](./projects/weather-viewer.md)
 
 | Репозиторий                                                                | Автор                                               | Язык   | Ревью                                                                                                                                                      |
 |----------------------------------------------------------------------------|-----------------------------------------------------|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -88,13 +93,13 @@
 
 ## Облачное хранилище файлов
 
-ТЗ проекта - [https://zhukovsd.github.io/python-backend-learning-course/Projects/CloudFileStorage/](https://zhukovsd.github.io/python-backend-learning-course/Projects/CloudFileStorage/)
+[ТЗ проекта](./projects/cloud-file-storage.md)
 
-Реализация пока нет.
+Реализаций пока нет.
 
 ## Планировщик задач
 
-ТЗ проекта - [https://zhukovsd.github.io/python-backend-learning-course/Projects/TaskTracker/](https://zhukovsd.github.io/python-backend-learning-course/Projects/TaskTracker/)
+[ТЗ проекта](./projects/task-tracker.md)
 
 | Репозиторий                                                                | Автор                                               | Язык   | Ревью                                                                                                                                                      |
 |----------------------------------------------------------------------------|-----------------------------------------------------|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
