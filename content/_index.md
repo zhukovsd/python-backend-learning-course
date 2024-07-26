@@ -38,27 +38,27 @@
 
 Для каждого из проектов написано техническое задание, содержащее описание проекта, с какими знаниями к нему нужно подойти, на что обратить внимание. При написании тех.заданий я фокусировался на том, чтобы темп возрастания сложности был не слишком высоким, но в то же время, проекты дают конкретные технические навыки, требуемые в работе.
 
-1. [Виселица](Projects/Hangman/)
-2. [Симуляция](Projects/Simulation/)
-3. [Обмен валют](Projects/CurrencyExchange/)
-4. [Табло теннисного матча](Projects/TennisScoreboard/)
-5. [Погода](Projects/WeatherViewer/)
-6. [Облачное хранилище файлов](Projects/CloudFileStorage/)
-7. [Планировщик задач](Projects/TaskTracker/)
+1. [Виселица](./projects/hangman.md)
+2. [Симуляция](./projects/simulation.md)
+3. [Обмен валют](./projects/currency-exchange.md)
+4. [Табло теннисного матча](./projects/tennis-scoreboard.md)
+5. [Погода](./projects/weather-viewer.md)
+6. [Облачное хранилище файлов](./projects/cloud-file-storage.md)
+7. [Планировщик задач](./projects/task-tracker.md)
 
-[Список реализаций](Projects/FinishedProjects) проектов курсов студентами со ссылками на репозитории, авторов, и мои ревью.
+[Список реализаций](./finished-projects.md) проектов курсов студентами со ссылками на репозитории, авторов, и мои ревью.
 
 ### Требуемые знания и технологии
 
 Для колонок из схем выше я написал документы с описанием того, что нужно знать, ссылками с начальной информацией:
-- [Python](Technologies/Python/)
-- [Backend](Technologies/Backend/)
-- [Базы данных](Technologies/Databases/)
-- [Управление зависимостями](Technologies/DependencyManagement/)
-- [DevOps](Technologies/DevOps/) - Git, деплой, CI/CD
-- [Frontend](Technologies/Frontend/)
-- [Тестирование](Technologies/Tests)
-- [Контейнеры и микросервисы](Technologies/Microservices)
+- [Python](./technologies/python.md)
+- [Backend](./technologies/backend.md)
+- [Базы данных](./technologies/databases.md)
+- [Управление зависимостями](./technologies/dependency-management.md)
+- [DevOps](./technologies/dev-ops.md) - Git, деплой, CI/CD
+- [Frontend](./technologies/frontend.md)
+- [Тестирование](./technologies/tests.md)
+- [Контейнеры и микросервисы](./technologies/microservices.md)
 
 ## Общение
 
