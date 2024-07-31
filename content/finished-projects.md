@@ -34,7 +34,7 @@ weight = 30
 | [python_projects](https://github.com/stas-yarovikov/python_projects) | [stas-yarovikov](https://github.com/stas-yarovikov) | Python | 📝 [Заметки](https://gist.github.com/Asenim/676a25db922efef07d5aae8050534dff) | [Сергей Удачин](https://t.me/grandpraline) |
 | [Hangman-Game](https://github.com/Y1-Bit/Hangman-Game) | [Y1-Bit](https://github.com/Y1-Bit) | Python |  |  |
 | [hang_man_project](https://github.com/stas-yarovikov/hang_man_project) | [stas-yarovikov](https://github.com/stas-yarovikov) | Python |  |  |
-
+| [gallows](https://github.com/devs7ar/gallows) | [devs7ar](https://github.com/devs7ar) | Python | 📝 [Заметки](https://gist.github.com/Asenim/7e43fe5e7ce78792e749f0dce4b0fd94) | [Ageev Maxim](http://t.me/apostol_fet) |
 
 
 
@@ -52,6 +52,10 @@ weight = 30
 | [Simulation](https://github.com/Awakary/Simulation) | [Awakary](https://github.com/Awakary) | Python | 📝 [Заметки](https://gist.github.com/Asenim/20fb1148b14ed443c67919ca8534b8b3) | [Сергей Удачин](https://t.me/grandpraline) |
 | [Simulation](https://github.com/EgorFurman/Simulation) | [EgorFurman](https://github.com/EgorFurman) | Python | 📝 [Заметки](https://gist.github.com/Asenim/50eae3ef698d1a6fca1cb39ab0cca846) | [Иван](http://t.me/makeitvsolo) |
 | [Simulation](https://github.com/Anikavuk/Simulation) | [Anikavuk](https://github.com/Anikavuk) | Python |  |  |
+| [Simulation](https://github.com/Y1-Bit/Simulation) | [Y1-Bit](https://github.com/Y1-Bit) | Python | 📝 [Заметки](https://gist.github.com/Asenim/05a97d76991a3b50f19a8da4045e3214) | [Ageev Maxim](http://t.me/apostol_fet) |
+| [Simulation](https://github.com/Dmitry-Strog/Simulation) | [Dmitry-Strog](https://github.com/Dmitry-Strog) | Python |📝 [Заметки](https://gist.github.com/Asenim/6706f3ea1929e528762048cf613f256e) | [Ageev Maxim](http://t.me/apostol_fet) |
+| [Simulation](https://github.com/Y1-Bit/Simulation) | [Y1-Bit](https://github.com/Y1-Bit) | Python |  |  |
+
 
 
 
@@ -68,6 +72,7 @@ weight = 30
 | [currency_exchange_FastAPI](https://github.com/Victor-Smirnoff/currency_exchange_FastAPI) | [Victor-Smirnoff](https://github.com/Victor-Smirnoff) | Python |                                                                             |
 | [Exchange_Rate](https://github.com/Anikavuk/Exchange_Rate)                            | [Anikavuk](https://github.com/Anikavuk)                                   | Python |                                                                            |                      |
 | [currency_exchange](https://github.com/mbylinkin/currency_exchange) | [mbylinkin](https://github.com/mbylinkin) | Python |  |  |
+| [Currency-Exchange](https://github.com/Y1-Bit/Currency-Exchange) | [Y1-Bit](https://github.com/Y1-Bit) | Python |  |  |
 
 
 
