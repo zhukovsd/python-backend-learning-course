@@ -35,6 +35,9 @@ weight = 30
 | [Hangman-Game](https://github.com/Y1-Bit/Hangman-Game) | [Y1-Bit](https://github.com/Y1-Bit) | Python |  |  |
 | [hang_man_project](https://github.com/stas-yarovikov/hang_man_project) | [stas-yarovikov](https://github.com/stas-yarovikov) | Python |  |  |
 | [gallows](https://github.com/devs7ar/gallows) | [devs7ar](https://github.com/devs7ar) | Python | 📝 [Заметки](https://gist.github.com/Asenim/7e43fe5e7ce78792e749f0dce4b0fd94) | [Ageev Maxim](http://t.me/apostol_fet) |
+| [Hangman](https://github.com/Wh4tisl0ve/Hangman) | [Wh4tisl0ve](https://github.com/Wh4tisl0ve) | Python |  |  |
+| [hangman](https://github.com/maff-maier/hangman) | [maff-maier](https://github.com/maff-maier) | Python | 📝 [Заметки](https://gist.github.com/Asenim/5bea502a39dda92743a060c1b476b415) | [Ageev Maxim](http://t.me/apostol_fet) |
+
 
 
 
@@ -55,6 +58,9 @@ weight = 30
 | [Simulation](https://github.com/Y1-Bit/Simulation) | [Y1-Bit](https://github.com/Y1-Bit) | Python | 📝 [Заметки](https://gist.github.com/Asenim/05a97d76991a3b50f19a8da4045e3214) | [Ageev Maxim](http://t.me/apostol_fet) |
 | [Simulation](https://github.com/Dmitry-Strog/Simulation) | [Dmitry-Strog](https://github.com/Dmitry-Strog) | Python |📝 [Заметки](https://gist.github.com/Asenim/6706f3ea1929e528762048cf613f256e) | [Ageev Maxim](http://t.me/apostol_fet) |
 | [Simulation](https://github.com/Y1-Bit/Simulation) | [Y1-Bit](https://github.com/Y1-Bit) | Python |  |  |
+| [simulation](https://github.com/Drowchik/simulation) | [Drowchik](https://github.com/Drowchik) | Python |  |  |
+| [Simulation](https://github.com/Wh4tisl0ve/Simulation) | [Wh4tisl0ve](https://github.com/Wh4tisl0ve) | Python |  |  |
+
 
 
 
@@ -73,6 +79,8 @@ weight = 30
 | [Exchange_Rate](https://github.com/Anikavuk/Exchange_Rate)                            | [Anikavuk](https://github.com/Anikavuk)                                   | Python |                                                                            |                      |
 | [currency_exchange](https://github.com/mbylinkin/currency_exchange) | [mbylinkin](https://github.com/mbylinkin) | Python |  |  |
 | [Currency-Exchange](https://github.com/Y1-Bit/Currency-Exchange) | [Y1-Bit](https://github.com/Y1-Bit) | Python |  |  |
+| [currency_exchange](https://github.com/Drowchik/currency_exchange) | [Drowchik](https://github.com/Drowchik) | Python | 📝 [Заметки](https://gist.github.com/Asenim/b68dd2661dde8b3573ead4df594d1281) | [Ageev Maxim](http://t.me/apostol_fet) |
+
 
 
 
@@ -86,6 +94,8 @@ weight = 30
 | [TennisMatchScoreboard](https://github.com/u-cha/TennisMatchScoreboard) | [u-cha](https://github.com/u-cha) | Python |   📝 [Заметки](https://gist.github.com/zhukovsd/8c6a07afd054725ae73a57b48f182e87)    | [@zhukovsd](https://t.me/zhukovsd) |
 | [Tennis_Match_Scoreboard](https://github.com/Asenim/Tennis_Match_Scoreboard) | [Asenim](https://github.com/Asenim) | Python |  |
 | [TennisScoreboard](https://github.com/Victor-Smirnoff/TennisScoreboard) | [Victor-Smirnoff](https://github.com/Victor-Smirnoff) | Python |  |
+| [Tennis-Score-Board](https://github.com/Y1-Bit/Tennis-Score-Board) | [Y1-Bit](https://github.com/Y1-Bit) | Python |  |  |
+
 
 ## Погода
 
