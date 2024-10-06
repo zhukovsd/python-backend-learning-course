@@ -16,6 +16,7 @@ weight = 7
 - [Базы данных](../technologies/databases.md)
   - PostreSQL
   - SQLAlchemy
+  - Миграции
 - [Frontend](../technologies/frontend.md) - HTML/CSS, Bootstrap, Javascript, Ajax
 - [Docker и микросервисы](../technologies/microservices.md)
   - Контейнеры, образы, volumes, написание Dockerfile, Docker Compose
