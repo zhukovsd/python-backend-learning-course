@@ -17,6 +17,7 @@ weight = 5
 - [Базы данных](../technologies/databases.md)
   - Postgres
   - DjangoORM
+  - Миграции
 - [Frontend](../technologies/frontend.md) - HTML/CSS, Bootstrap
 - [Тесты](../technologies/tests.md) - интеграционное тестирование, моки
 - [Деплой](../technologies/dev-ops.md#деплой) - облачный хостинг, командная строка Linux
@@ -75,7 +76,7 @@ weight = 5
 
 ## База данных
 
-В этом проекте предлагаю использовать Postgres.
+В этом проекте предлагаю использовать Postgres, а таблицы создавать с помощью Django Migrations.
 
 ### Таблица `Users`
 
