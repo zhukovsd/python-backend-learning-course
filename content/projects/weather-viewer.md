@@ -119,7 +119,7 @@ weight = 5
 - Поиск локаций по названию - [https://openweathermap.org/current#geocoding](https://openweathermap.org/current#geocoding)
 - Получение погоды по координатам локации - [https://openweathermap.org/current#one](https://openweathermap.org/current#one)
 
-Первым делом следует поэкспериментировать с API вручную, чтобы понять как делать запросы, и что приходит в ответе. Сделать это можно в [HTTP клиенте](https://www.jetbrains.com/help/idea/http-client-in-product-code-editor.html) встроенном в Intellij IDEA, либо воспользоваться отдельным приложением, например Postman или [https://insomnia.rest/](https://insomnia.rest/).
+Первым делом следует поэкспериментировать с API вручную, чтобы понять как делать запросы, и что приходит в ответе. Сделать это можно в [HTTP клиенте](https://www.jetbrains.com/help/idea/http-client-in-product-code-editor.html) встроенном в среды JetBrains (IDEA/PyCharm), либо воспользоваться отдельным приложением, например Postman или [https://insomnia.rest/](https://insomnia.rest/).
 
 ### Интеграция OpenWeather API с приложением
 
