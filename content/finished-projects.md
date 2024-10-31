@@ -40,6 +40,10 @@ weight = 30
 | [hangman-game-project](https://github.com/Gevorji/hangman-game-project) | [Gevorji](https://github.com/Gevorji) | Python |  |  |
 | [Hangman](https://github.com/ibobrov/Hangman) | [ibobrov](https://github.com/ibobrov) | Python | 📝 [Заметки](https://gist.github.com/Asenim/e184a3881a0484b34a796d185be83fc6) | Дмитрий [@DmMaff](https://t.me/DmMaff) |
 | [HangManGame](https://github.com/ApostolFet/HangManGame) | [ApostolFet](https://github.com/ApostolFet) | Python |  |   |
+| [hangman](https://github.com/commonlisper/hangman) | [commonlisper](https://github.com/commonlisper) | Python | 📝 [Заметки](https://gist.github.com/Asenim/601a2be7dc1401f3023316cab059907c) | Дмитрий [@onkonfeton](https://t.me/onkonfeton), Дмитрий  [@DmMaff](https://t.me/DmMaff) |
+| [hangman_game](https://github.com/fearux/hangman_game) | [fearux](https://github.com/fearux) | Python | 📝 [Заметки](https://gist.github.com/Asenim/b94ef2d84442ff78f5b8184e29bfacbd) | Максим [@apostol_fet](https://t.me/apostol_fet), Дмитрий [@DmMaff](https://t.me/DmMaff) |
+| [VISELICA](https://github.com/SSABAMM/VISELICA) | [SSABAMM](https://github.com/SSABAMM) | Python | 📝 [Заметки](https://gist.github.com/Asenim/367759b0968037f25dd175b9aa2cf31e) | Дмитрий [@DmMaff](https://t.me/DmMaff) |
+
 
 
 
@@ -65,6 +69,8 @@ weight = 30
 | [simulation](https://github.com/Drowchik/simulation) | [Drowchik](https://github.com/Drowchik) | Python |  |  |
 | [Simulation](https://github.com/Wh4tisl0ve/Simulation) | [Wh4tisl0ve](https://github.com/Wh4tisl0ve) | Python |  |  |
 | [simulation-project](https://github.com/Gevorji/simulation-project) | [Gevorji](https://github.com/Gevorji) | Python |  |  |
+| [Simulation](https://github.com/ApostolFet/Simulation) | [ApostolFet](https://github.com/ApostolFet) | Python |  |   |
+
 
 
 
@@ -87,6 +93,10 @@ weight = 30
 | [currency-exchange-project](https://github.com/Gevorji/currency-exchange-project) | [Gevorji](https://github.com/Gevorji) | Python |  |   |
 | [CurrencyExchange](https://github.com/Awakary/CurrencyExchange) | [Awakary](https://github.com/Awakary) | Python | 📝 [Заметки](https://gist.github.com/Asenim/e5f2e9560937102824173514509551f2) | Сергей [@grandpraline](https://t.me/grandpraline) |
 | [CurrencyExchange](https://github.com/EgorFurman/CurrencyExchange) | [EgorFurman](https://github.com/EgorFurman) | Python |  |   |
+| [currency_exchange](https://github.com/Pashosi/currency_exchange) | [Pashosi](https://github.com/Pashosi) | Python |  |   |
+| [Currency_exchange](https://github.com/Wh4tisl0ve/Currency_exchange) | [Wh4tisl0ve](https://github.com/Wh4tisl0ve) | Python |  |   |
+| [currency_exchange](https://github.com/Dmitry-DVal/currency_exchange) | [Dmitry-DVal](https://github.com/Dmitry-DVal) | Python |  |   |
+
 
 
 
