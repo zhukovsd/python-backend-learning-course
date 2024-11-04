@@ -43,6 +43,12 @@ weight = 30
 | [hangman](https://github.com/commonlisper/hangman) | [commonlisper](https://github.com/commonlisper) | Python | 📝 [Заметки](https://gist.github.com/Asenim/601a2be7dc1401f3023316cab059907c) | Дмитрий [@onkonfeton](https://t.me/onkonfeton), Дмитрий  [@DmMaff](https://t.me/DmMaff) |
 | [hangman_game](https://github.com/fearux/hangman_game) | [fearux](https://github.com/fearux) | Python | 📝 [Заметки](https://gist.github.com/Asenim/b94ef2d84442ff78f5b8184e29bfacbd) | Максим [@apostol_fet](https://t.me/apostol_fet), Дмитрий [@DmMaff](https://t.me/DmMaff) |
 | [VISELICA](https://github.com/SSABAMM/VISELICA) | [SSABAMM](https://github.com/SSABAMM) | Python | 📝 [Заметки](https://gist.github.com/Asenim/367759b0968037f25dd175b9aa2cf31e) | Дмитрий [@DmMaff](https://t.me/DmMaff) |
+| [Hangman](https://github.com/Eleefant/Hangman) | [Eleefant](https://github.com/Eleefant) | Python | 📝 [Заметки](https://gist.github.com/Asenim/cfac7eb864dfe0943b9cbdb49758aa9f) | Владислав [@St4rl1ne](https://t.me/St4rl1ne) |
+| [itmentor](https://github.com/StatsenkoAnna/itmentor) | [StatsenkoAnna](https://github.com/StatsenkoAnna) | Python | 📝 [Заметки](https://gist.github.com/Asenim/75fb7abcbb545bfff802284770f5ca62) | Дмитрий [@DmMaff](https://t.me/DmMaff) и Максим [@apostol_fet](https://t.me/apostol_fet) |
+| [hangman](https://github.com/ratmeow/hangman) | [ratmeow](https://github.com/ratmeow) | Python |  |   |
+| [hangman_game](https://github.com/dna1133/hangman_game) | [dna1133](https://github.com/dna1133) | Python |  |   |
+| [hangman](https://github.com/ikorepanov/hangman) | [ikorepanov](https://github.com/ikorepanov) | Python |  |   |
+
 
 
 
@@ -113,16 +119,20 @@ weight = 30
 | [Tennis_Match_Scoreboard](https://github.com/Asenim/Tennis_Match_Scoreboard) | [Asenim](https://github.com/Asenim) | Python |  |
 | [TennisScoreboard](https://github.com/Victor-Smirnoff/TennisScoreboard) | [Victor-Smirnoff](https://github.com/Victor-Smirnoff) | Python |  |
 | [Tennis-Score-Board](https://github.com/Y1-Bit/Tennis-Score-Board) | [Y1-Bit](https://github.com/Y1-Bit) | Python |  |  |
+| [Tennis_scoreboard](https://github.com/Wh4tisl0ve/Tennis_scoreboard) | [Wh4tisl0ve](https://github.com/Wh4tisl0ve) | Python | 📝 [Заметки](https://gist.github.com/Asenim/84aa741bb7cd11706929b2c62138e3e9) | Максим [@apostol_fet](https://t.me/apostol_fet) |
+| [TennisMatchScoreboard](https://github.com/Pashosi/TennisMatchScoreboard) | [Pashosi](https://github.com/Pashosi) | Python |  |   |
+
 
 
 ## Погода
 
 [ТЗ проекта](./projects/weather-viewer.md)
 
-| Репозиторий                                                                | Автор                                               | Язык   | Ревью                                                                                                                                                      |
-|----------------------------------------------------------------------------|-----------------------------------------------------|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Репозиторий                                                                | Автор                                               | Язык   | Ревью                                                                                                                                                      | Автор ревью |
+|----------------------------------------------------------------------------|-----------------------------------------------------|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
 | [WeatherApp](https://github.com/u-cha/WeatherApp/) | [u-cha](https://github.com/u-cha) | Python |  |
 | [weather](https://github.com/Victor-Smirnoff/weather)      | [Victor-Smirnoff](https://github.com/Victor-Smirnoff) | Python |                   |
+| [WeatherViewer](https://github.com/Asenim/WeatherViewer) | [Asenim](https://github.com/Asenim) | Python |  |
 
 ## Облачное хранилище файлов
 
