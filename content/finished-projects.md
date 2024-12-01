@@ -48,6 +48,9 @@ weight = 30
 | [hangman](https://github.com/ratmeow/hangman) | [ratmeow](https://github.com/ratmeow) | Python |  |   |
 | [hangman_game](https://github.com/dna1133/hangman_game) | [dna1133](https://github.com/dna1133) | Python |  |   |
 | [hangman](https://github.com/ikorepanov/hangman) | [ikorepanov](https://github.com/ikorepanov) | Python |  |   |
+| [hangman](https://github.com/ikorepanov/hangman) | [ikorepanov](https://github.com/ikorepanov) | Python | 📝 [Заметки](https://gist.github.com/Asenim/1b68051eab951a7f7ba5ec55bbe6ab32) | Максим [@apostol_fet](https://t.me/apostol_fet) |
+| [Python_Hangman_Game](https://github.com/JonyKruCode/Python_Hangman_Game) | [JonyKruCode](https://github.com/JonyKruCode) | Python | 📝 [Заметки](https://gist.github.com/Asenim/2b7324e81267cb185ff0b5f71eaf8c62) | Денис [@dnsngrv](https://t.me/dnsngrv), Виктор [@csatom](https://t.me/csatom) |
+
 
 
 
@@ -102,6 +105,7 @@ weight = 30
 | [currency_exchange](https://github.com/Pashosi/currency_exchange) | [Pashosi](https://github.com/Pashosi) | Python |  |   |
 | [Currency_exchange](https://github.com/Wh4tisl0ve/Currency_exchange) | [Wh4tisl0ve](https://github.com/Wh4tisl0ve) | Python |  |   |
 | [currency_exchange](https://github.com/Dmitry-DVal/currency_exchange) | [Dmitry-DVal](https://github.com/Dmitry-DVal) | Python |  |   |
+| [currency_exchange](https://github.com/dna1133/currency_exchange) | [dna1133](https://github.com/dna1133) | Python |  |   |
 
 
 
@@ -121,6 +125,12 @@ weight = 30
 | [Tennis-Score-Board](https://github.com/Y1-Bit/Tennis-Score-Board) | [Y1-Bit](https://github.com/Y1-Bit) | Python |  |  |
 | [Tennis_scoreboard](https://github.com/Wh4tisl0ve/Tennis_scoreboard) | [Wh4tisl0ve](https://github.com/Wh4tisl0ve) | Python | 📝 [Заметки](https://gist.github.com/Asenim/84aa741bb7cd11706929b2c62138e3e9) | Максим [@apostol_fet](https://t.me/apostol_fet) |
 | [TennisMatchScoreboard](https://github.com/Pashosi/TennisMatchScoreboard) | [Pashosi](https://github.com/Pashosi) | Python |  |   |
+| [TennisMatchScoreboard](https://github.com/EgorFurman/TennisMatchScoreboard) | [EgorFurman](https://github.com/EgorFurman) | Python | 📝 [Заметки](https://gist.github.com/Asenim/71cbb5359181cd1f5a1ff144b79346fa) | Сергей [@grandpraline](https://t.me/grandpraline) |
+| [TennisMatchScoreboard](https://github.com/Pashosi/TennisMatchScoreboard) | [Pashosi](https://github.com/Pashosi) | Python | 📝 [Заметки](https://gist.github.com/Asenim/86dec26d4fca31f83ffa8f8c45808a00) | Виктор [@csatom](https://t.me/csatom) |
+| [TennisScoreBoard.git](https://github.com/Awakary/TennisScoreBoard.git) | [Awakary](https://github.com/Awakary) | Python | 📝 [Заметки](https://gist.github.com/Asenim/afca15c89b3d4df3a27893d8848957fc) | Сергей [@grandpraline](https://t.me/grandpraline) |
+| [tennis-scoreboard-project](https://github.com/Gevorji/tennis-scoreboard-project) | [Gevorji](https://github.com/Gevorji) | Python | 📝 [Заметки](https://gist.github.com/Asenim/62aae2d9f57cffef92392822855ab77e) | Виктор [@csatom](https://t.me/csatom) |
+| [TennisMatchProject.git](https://github.com/PavelFurochkin/TennisMatchProject.git) | [PavelFurochkin](https://github.com/PavelFurochkin) | Python | 📝 [Заметки](https://gist.github.com/Asenim/3658b0589e568d320b4dec495e814ef2) | Сергей [@grandpraline](https://t.me/grandpraline) |
+| [Tennis_match_scoreboard](https://github.com/Dmitry-Strog/Tennis_match_scoreboard) | [Dmitry-Strog](https://github.com/Dmitry-Strog) | Python | 📝 [Заметки](https://gist.github.com/Asenim/74b49a9b154097f361aa5e77060992c9) | Виктор [@csatom](https://t.me/csatom) |
 
 
 
