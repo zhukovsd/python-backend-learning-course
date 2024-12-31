@@ -50,6 +50,9 @@ weight = 30
 | [hangman](https://github.com/ikorepanov/hangman) | [ikorepanov](https://github.com/ikorepanov) | Python |  |   |
 | [hangman](https://github.com/ikorepanov/hangman) | [ikorepanov](https://github.com/ikorepanov) | Python | 📝 [Заметки](https://gist.github.com/Asenim/1b68051eab951a7f7ba5ec55bbe6ab32) | Максим [@apostol_fet](https://t.me/apostol_fet) |
 | [Python_Hangman_Game](https://github.com/JonyKruCode/Python_Hangman_Game) | [JonyKruCode](https://github.com/JonyKruCode) | Python | 📝 [Заметки](https://gist.github.com/Asenim/2b7324e81267cb185ff0b5f71eaf8c62) | Денис [@dnsngrv](https://t.me/dnsngrv), Виктор [@csatom](https://t.me/csatom) |
+| [roadmap_gallows](https://github.com/MansurTM/roadmap_gallows) | [MansurTM](https://github.com/MansurTM) | Python |  |  |  
+| [Hangman](https://github.com/Doworder/Hangman) | [Doworder](https://github.com/Doworder) | Python | 📝 [#1](https://gist.github.com/Asenim/66a57dabfb6df1cb055e7e0b7f44555b), 📝 [#2](https://gist.github.com/Asenim/3a0d849e7efd61877d9cb69f6298ad6c) | Максим [@apostol_fet](https://t.me/apostol_fet), Сергей [@grandpraline](https//t.me/grandpraline) |  
+
 
 
 
@@ -79,6 +82,9 @@ weight = 30
 | [Simulation](https://github.com/Wh4tisl0ve/Simulation) | [Wh4tisl0ve](https://github.com/Wh4tisl0ve) | Python |  |  |
 | [simulation-project](https://github.com/Gevorji/simulation-project) | [Gevorji](https://github.com/Gevorji) | Python |  |  |
 | [Simulation](https://github.com/ApostolFet/Simulation) | [ApostolFet](https://github.com/ApostolFet) | Python |  |   |
+| [Py_pet_pr2_Simulation](https://github.com/JonyHelloWorld/Py_pet_pr2_Simulation) | [JonyHelloWorld](https://github.com/JonyHelloWorld) | Python |  |  |  
+| [simulation](https://github.com/ratmeow/simulation) | [ratmeow](https://github.com/ratmeow) | Python |  |  |  
+
 
 
 
@@ -106,6 +112,8 @@ weight = 30
 | [Currency_exchange](https://github.com/Wh4tisl0ve/Currency_exchange) | [Wh4tisl0ve](https://github.com/Wh4tisl0ve) | Python |  |   |
 | [currency_exchange](https://github.com/Dmitry-DVal/currency_exchange) | [Dmitry-DVal](https://github.com/Dmitry-DVal) | Python |  |   |
 | [currency_exchange](https://github.com/dna1133/currency_exchange) | [dna1133](https://github.com/dna1133) | Python |  |   |
+| [currency_exchanger](https://github.com/ratmeow/currency_exchanger) | [ratmeow](https://github.com/ratmeow) | Python |  |  |  
+
 
 
 
@@ -143,6 +151,10 @@ weight = 30
 | [WeatherApp](https://github.com/u-cha/WeatherApp/) | [u-cha](https://github.com/u-cha) | Python |  |
 | [weather](https://github.com/Victor-Smirnoff/weather)      | [Victor-Smirnoff](https://github.com/Victor-Smirnoff) | Python |                   |
 | [WeatherViewer](https://github.com/Asenim/WeatherViewer) | [Asenim](https://github.com/Asenim) | Python |  |
+| [WeatherApp](https://github.com/Wh4tisl0ve/WeatherApp) | [Wh4tisl0ve](https://github.com/Wh4tisl0ve) | Python |  |  |  
+| [weatherViewer](https://github.com/EgorFurman/weatherViewer) | [EgorFurman](https://github.com/EgorFurman) | Python | 📝 [Заметки](https://gist.github.com/Asenim/aa26e724619a4273c623b6e620438a6c) | Сергей [@grandpraline](https//t.me/grandpraline) |  
+| [DjangoProjectWeather](https://github.com/Pashosi/DjangoProjectWeather) | [Pashosi](https://github.com/Pashosi) | Python |  |  |  
+
 
 ## Облачное хранилище файлов
 
