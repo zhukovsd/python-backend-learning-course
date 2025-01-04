@@ -187,7 +187,7 @@ File input может быть использован для загрузки л
 
 ## План работы над приложением
 
-- Docker Compose - добавить MySQL, Redis
+- Docker Compose - добавить Postgres, Redis
 - Django - с помощью django.contrib.auth реализовать регистрацию и авторизацию пользователей, хранить сессии в Redis
 - Интеграционные тесты для сервиса регистрации
 - Docker Compose - добавить MinIO
