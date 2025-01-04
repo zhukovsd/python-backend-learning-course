@@ -271,7 +271,7 @@ RabbitMQ в контексте docker compose стека будет запуще
 
 ## План работы над приложением
 
-- Docker Compose - добавить MySQL, RabbitMQ
+- Docker Compose - добавить Postgres, RabbitMQ
 - Backend - работа с пользователями
 - Backend - работа с jwt (авторизация, логаут)
 - Frontend - структура страницы, интерфейс и Javascript для регистрации и авторизации
