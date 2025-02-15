@@ -76,8 +76,19 @@ weight = 30
 ## Планировщик задач
 
 [ТЗ проекта](./projects/task-tracker.md)
+
 | Репозиторий | Автор | Язык | Ревью | Автор ревью |
 |-------------|-------|------|-------|-------------|
 {% for p in projects if p.project_name == 'task-tracker' -%}
+| {{ p | repo }} | {{ p | author }} | {{ p | language }} | {{ p | review }} | {{ p | review_author }} |
+{% endfor %}
+
+## Остальное
+
+Проекты вне курса, которые студенты писали по своей инициативе или по моему совету.
+
+| Репозиторий | Автор | Язык | Ревью | Автор ревью |
+|-------------|-------|------|-------|-------------|
+{% for p in projects if p.project_name == 'other' -%}
 | {{ p | repo }} | {{ p | author }} | {{ p | language }} | {{ p | review }} | {{ p | review_author }} |
 {% endfor %}
