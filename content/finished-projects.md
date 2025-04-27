@@ -7,7 +7,7 @@ weight = 30
 
 Список реализаций проектов курса (и не только). Для каждого проекта указана ссылка на код, язык программирования/фреймворк, и ссылка на ревью.
 
-104 реализаций, 55 ревью.
+116 реализаций, 56 ревью.
 
 [Полная версия таблицы с реализациями проектов](https://zhukovsd.github.io/java-backend-learning-course/finished-projects) на всех языках программирования, не только Python.
 
@@ -59,6 +59,9 @@ weight = 30
 | [gallows](https://github.com/TheEmpressDiadema/gallows) | [TheEmpressDiadema](https://github.com/TheEmpressDiadema) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/22686f0843f3adf89a7e158910ffc3ee) | Максим [@apostol_fet](https://t.me/apostol_fet) |
 | [HangmanConsoleGame](https://github.com/Im-Okey/HangmanConsoleGame) | [Im-Okey](https://github.com/Im-Okey) | Python |  |  |
 | [hangman](https://github.com/romanbadmaev/hangman) | [romanbadmaev](https://github.com/romanbadmaev) | Python |  |  |
+| [Hangman](https://github.com/Nazar-Goat/Hangman) | [Nazar-Goat](https://github.com/Nazar-Goat) | Python | 📝 [Заметки](https://t.me/zhukovsd_it_chat/53244/213859) |  |
+| [hangman](https://github.com/Gilenor/hangman) | [Gilenor](https://github.com/Gilenor) | Python |  |  |
+| [Hangman-OOP](https://github.com/Gilenor/Hangman-OOP) | [Gilenor](https://github.com/Gilenor) | Python |  |  |
 
 
 ## Симуляция
@@ -86,6 +89,8 @@ weight = 30
 | [Simulation](https://github.com/uollouu/Simulation) | [uollouu](https://github.com/uollouu) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/9fcab424b91cd4425078a3eb09cc33f2) | Максим [@apostol_fet](https://t.me/apostol_fet) |
 | [simulation](https://github.com/maff-maier/simulation) | [maff-maier](https://github.com/maff-maier) | Python |  |  |
 | [simulation](https://github.com/stas-yarovikov/simulation) | [stas-yarovikov](https://github.com/stas-yarovikov) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/d3c262abe1b26773bc8097c5509c4650) | Сергей [@grandpraline](https://t.me/grandpraline) |
+| [simulation3](https://github.com/Dimkin33/simulation3) | [Dimkin33](https://github.com/Dimkin33) | Python |  |  |
+| [simulation](https://github.com/TheEmpressDiadema/simulation) | [TheEmpressDiadema](https://github.com/TheEmpressDiadema) | Python |  |  |
 
 
 ## Обмен валют
@@ -111,9 +116,12 @@ weight = 30
 | [currency_exchange](https://github.com/Dmitry-DVal/currency_exchange) | [Dmitry-DVal](https://github.com/Dmitry-DVal) | Python |  |  |
 | [currency_exchange](https://github.com/dna1133/currency_exchange) | [dna1133](https://github.com/dna1133) | Python |  |  |
 | [currency_exchanger](https://github.com/ratmeow/currency_exchanger) | [ratmeow](https://github.com/ratmeow) | Python |  |  |
+| [CurrencyExchange](https://github.com/ApostolFet/CurrencyExchange) | [ApostolFet](https://github.com/ApostolFet) | Python |  |  |
 | [currencyExchangeFastAPI](https://github.com/EgorFurman/currencyExchangeFastAPI) | [EgorFurman](https://github.com/EgorFurman) | Python |  |  |
 | [CurrencyExchangeDRF.git](https://github.com/Awakary/CurrencyExchangeDRF.git) | [Awakary](https://github.com/Awakary) | Python |  |  |
 | [currency_exchange_FastAPI](https://github.com/Pashosi/currency_exchange_FastAPI) | [Pashosi](https://github.com/Pashosi) | Python |  |  |
+| [currency_exchange_fastapi](https://github.com/Dmitry-Strog/currency_exchange_fastapi) | [Dmitry-Strog](https://github.com/Dmitry-Strog) | Python |  |  |
+| [Exchange_currency_FastAPI](https://github.com/PavelFurochkin/Exchange_currency_FastAPI) | [PavelFurochkin](https://github.com/PavelFurochkin) | Python |  |  |
 
 
 ## Теннисное табло
@@ -135,6 +143,8 @@ weight = 30
 | [Tennis_match_scoreboard](https://github.com/Dmitry-Strog/Tennis_match_scoreboard) | [Dmitry-Strog](https://github.com/Dmitry-Strog) | Python | 📝 [Заметки](https://gist.github.com/Asenim/74b49a9b154097f361aa5e77060992c9) | Виктор [@csatom](https://t.me/csatom) |
 | [tennis_scoreboard](https://github.com/ratmeow/tennis_scoreboard) | [ratmeow](https://github.com/ratmeow) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/62cb7a144572231a589e18f90e48bfd9) | Виктор [@csatom](https://t.me/csatom) |
 | [Tennis_Match_Scoreboard](https://github.com/Anikavuk/Tennis_Match_Scoreboard) | [Anikavuk](https://github.com/Anikavuk) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/8f4424f9e05f97e91930467bc80df01b) | Максим [@apostol_fet](https://t.me/apostol_fet) |
+| [tennis_match_csoreboard_v_2](https://github.com/Gichie/tennis_match_csoreboard_v_2) | [Gichie](https://github.com/Gichie) | Python |  |  |
+| [TennisScoreBoard](https://github.com/Dmitry-DVal/TennisScoreBoard) | [Dmitry-DVal](https://github.com/Dmitry-DVal) | Python |  |  |
 
 
 ## Погода
@@ -151,6 +161,7 @@ weight = 30
 | [WeatherApp](https://github.com/Dmitry-Strog/WeatherApp) | [Dmitry-Strog](https://github.com/Dmitry-Strog) | Python |  |  |
 | [Weather_viewer](https://github.com/PavelFurochkin/Weather_viewer) | [PavelFurochkin](https://github.com/PavelFurochkin) | Python |  |  |
 | [WeatherService-](https://github.com/Awakary/WeatherService-) | [Awakary](https://github.com/Awakary) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/c0011664cc4f716a91a5c61772905963) | Сергей [@grandpraline](https://t.me/grandpraline) |
+| [Weather.git](https://github.com/Gichie/Weather.git) | [Gichie](https://github.com/Gichie) | Python |  |  |
 
 
 ## Облачное хранилище файлов
@@ -160,6 +171,7 @@ weight = 30
 | Репозиторий | Автор | Язык | Ревью | Автор ревью |
 |-------------|-------|------|-------|-------------|
 | [Cloud_file_storage](https://github.com/Wh4tisl0ve/Cloud_file_storage) | [Wh4tisl0ve](https://github.com/Wh4tisl0ve) | Python |  |  |
+| [CloudStorage](https://github.com/v1adis1av28/CloudStorage) | [v1adis1av28](https://github.com/v1adis1av28) | Python |  |  |
 
 
 ## Планировщик задач
