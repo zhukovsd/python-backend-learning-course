@@ -7,7 +7,7 @@ weight = 30
 
 Список реализаций проектов курса (и не только). Для каждого проекта указана ссылка на код, язык программирования/фреймворк, и ссылка на ревью.
 
-116 реализаций, 56 ревью.
+118 реализаций, 56 ревью.
 
 [Полная версия таблицы с реализациями проектов](https://zhukovsd.github.io/java-backend-learning-course/finished-projects) на всех языках программирования, не только Python.
 
@@ -59,9 +59,10 @@ weight = 30
 | [gallows](https://github.com/TheEmpressDiadema/gallows) | [TheEmpressDiadema](https://github.com/TheEmpressDiadema) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/22686f0843f3adf89a7e158910ffc3ee) | Максим [@apostol_fet](https://t.me/apostol_fet) |
 | [HangmanConsoleGame](https://github.com/Im-Okey/HangmanConsoleGame) | [Im-Okey](https://github.com/Im-Okey) | Python |  |  |
 | [hangman](https://github.com/romanbadmaev/hangman) | [romanbadmaev](https://github.com/romanbadmaev) | Python |  |  |
-| [Hangman](https://github.com/Nazar-Goat/Hangman) | [Nazar-Goat](https://github.com/Nazar-Goat) | Python | 📝 [Заметки](https://t.me/zhukovsd_it_chat/53244/213859) |  |
+| [Hangman](https://github.com/Nazar-Goat/Hangman) | [Nazar-Goat](https://github.com/Nazar-Goat) | Python | 📝 [Заметки](https://gist.github.com/ApostolFet/641a75e3beae364bedbdf6a09e450045) | Максим [@apostol_fet](https://t.me/apostol_fet) |
 | [hangman](https://github.com/Gilenor/hangman) | [Gilenor](https://github.com/Gilenor) | Python |  |  |
 | [Hangman-OOP](https://github.com/Gilenor/Hangman-OOP) | [Gilenor](https://github.com/Gilenor) | Python |  |  |
+| [Hangman](https://github.com/nevvvo/Hangman) | [nevvvo](https://github.com/nevvvo) | Python |  |  |
 
 
 ## Симуляция
@@ -162,6 +163,7 @@ weight = 30
 | [Weather_viewer](https://github.com/PavelFurochkin/Weather_viewer) | [PavelFurochkin](https://github.com/PavelFurochkin) | Python |  |  |
 | [WeatherService-](https://github.com/Awakary/WeatherService-) | [Awakary](https://github.com/Awakary) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/c0011664cc4f716a91a5c61772905963) | Сергей [@grandpraline](https://t.me/grandpraline) |
 | [Weather.git](https://github.com/Gichie/Weather.git) | [Gichie](https://github.com/Gichie) | Python |  |  |
+| [weather-tracker](https://github.com/ratmeow/weather-tracker) | [ratmeow](https://github.com/ratmeow) | Python |  |  |
 
 
 ## Облачное хранилище файлов
