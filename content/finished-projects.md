@@ -7,7 +7,7 @@ weight = 30
 
 Список реализаций проектов курса (и не только). Для каждого проекта указана ссылка на код, язык программирования/фреймворк, и ссылка на ревью.
 
-118 реализаций, 56 ревью.
+130 реализаций, 57 ревью.
 
 [Полная версия таблицы с реализациями проектов](https://zhukovsd.github.io/java-backend-learning-course/finished-projects) на всех языках программирования, не только Python.
 
@@ -63,6 +63,12 @@ weight = 30
 | [hangman](https://github.com/Gilenor/hangman) | [Gilenor](https://github.com/Gilenor) | Python |  |  |
 | [Hangman-OOP](https://github.com/Gilenor/Hangman-OOP) | [Gilenor](https://github.com/Gilenor) | Python |  |  |
 | [Hangman](https://github.com/nevvvo/Hangman) | [nevvvo](https://github.com/nevvvo) | Python |  |  |
+| [vasiniyo-hangman](https://github.com/Vasiniyo/vasiniyo-hangman) | [Vasiniyo](https://github.com/Vasiniyo) | Python |  |  |
+| [Simulation](https://github.com/Nazar-Goat/Simulation) | [Nazar-Goat](https://github.com/Nazar-Goat) | Python |  |  |
+| [Hangman-Game](https://github.com/katyahohlova-dev/Hangman-Game) | [katyahohlova-dev](https://github.com/katyahohlova-dev) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/3e3f78ad5d09b52ce8cdacb9ba9e87e7) | Сергей [@grandpraline](https://t.me/grandpraline) |
+| [backend-projects](https://github.com/Prontoelder/backend-projects) | [Prontoelder](https://github.com/Prontoelder) | Python |  |  |
+| [hangman](https://github.com/szzmmdv/hangman) | [szzmmdv](https://github.com/szzmmdv) | Python |  |  |
+| [hangman.py](https://github.com/nakedborn666/hangman.py) | [nakedborn666](https://github.com/nakedborn666) | Python |  |  |
 
 
 ## Симуляция
@@ -92,6 +98,7 @@ weight = 30
 | [simulation](https://github.com/stas-yarovikov/simulation) | [stas-yarovikov](https://github.com/stas-yarovikov) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/d3c262abe1b26773bc8097c5509c4650) | Сергей [@grandpraline](https://t.me/grandpraline) |
 | [simulation3](https://github.com/Dimkin33/simulation3) | [Dimkin33](https://github.com/Dimkin33) | Python |  |  |
 | [simulation](https://github.com/TheEmpressDiadema/simulation) | [TheEmpressDiadema](https://github.com/TheEmpressDiadema) | Python |  |  |
+| [Simulation](https://github.com/Doworder/Simulation) | [Doworder](https://github.com/Doworder) | Python |  |  |
 
 
 ## Обмен валют
@@ -123,6 +130,8 @@ weight = 30
 | [currency_exchange_FastAPI](https://github.com/Pashosi/currency_exchange_FastAPI) | [Pashosi](https://github.com/Pashosi) | Python |  |  |
 | [currency_exchange_fastapi](https://github.com/Dmitry-Strog/currency_exchange_fastapi) | [Dmitry-Strog](https://github.com/Dmitry-Strog) | Python |  |  |
 | [Exchange_currency_FastAPI](https://github.com/PavelFurochkin/Exchange_currency_FastAPI) | [PavelFurochkin](https://github.com/PavelFurochkin) | Python |  |  |
+| [Currency_Exchange.git](https://github.com/Dimkin33/Currency_Exchange.git) | [Dimkin33](https://github.com/Dimkin33) | Python |  |  |
+| [currency-exchange-fapi](https://github.com/Gevorji/currency-exchange-fapi) | [Gevorji](https://github.com/Gevorji) | Python |  |  |
 
 
 ## Теннисное табло
@@ -146,6 +155,7 @@ weight = 30
 | [Tennis_Match_Scoreboard](https://github.com/Anikavuk/Tennis_Match_Scoreboard) | [Anikavuk](https://github.com/Anikavuk) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/8f4424f9e05f97e91930467bc80df01b) | Максим [@apostol_fet](https://t.me/apostol_fet) |
 | [tennis_match_csoreboard_v_2](https://github.com/Gichie/tennis_match_csoreboard_v_2) | [Gichie](https://github.com/Gichie) | Python |  |  |
 | [TennisScoreBoard](https://github.com/Dmitry-DVal/TennisScoreBoard) | [Dmitry-DVal](https://github.com/Dmitry-DVal) | Python |  |  |
+| [tennis_scoreboard.git](https://github.com/Dimkin33/tennis_scoreboard.git) | [Dimkin33](https://github.com/Dimkin33) | Python |  |  |
 
 
 ## Погода
@@ -164,6 +174,7 @@ weight = 30
 | [WeatherService-](https://github.com/Awakary/WeatherService-) | [Awakary](https://github.com/Awakary) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/c0011664cc4f716a91a5c61772905963) | Сергей [@grandpraline](https://t.me/grandpraline) |
 | [Weather.git](https://github.com/Gichie/Weather.git) | [Gichie](https://github.com/Gichie) | Python |  |  |
 | [weather-tracker](https://github.com/ratmeow/weather-tracker) | [ratmeow](https://github.com/ratmeow) | Python |  |  |
+| [WeatherApp](https://gitlab.com/Anikavuk/WeatherApp) | [Anikavuk](https://gitlab.com/Anikavuk) | Python |  |  |
 
 
 ## Облачное хранилище файлов
@@ -174,6 +185,7 @@ weight = 30
 |-------------|-------|------|-------|-------------|
 | [Cloud_file_storage](https://github.com/Wh4tisl0ve/Cloud_file_storage) | [Wh4tisl0ve](https://github.com/Wh4tisl0ve) | Python |  |  |
 | [CloudStorage](https://github.com/v1adis1av28/CloudStorage) | [v1adis1av28](https://github.com/v1adis1av28) | Python |  |  |
+| [CloudFileStorage](https://github.com/Gichie/CloudFileStorage) | [Gichie](https://github.com/Gichie) | Python |  |  |
 
 
 ## Планировщик задач
