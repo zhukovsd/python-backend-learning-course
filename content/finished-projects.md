@@ -7,7 +7,7 @@ weight = 30
 
 Список реализаций проектов курса (и не только). Для каждого проекта указана ссылка на код, язык программирования/фреймворк, и ссылка на ревью.
 
-130 реализаций, 57 ревью.
+138 реализаций, 58 ревью.
 
 [Полная версия таблицы с реализациями проектов](https://zhukovsd.github.io/java-backend-learning-course/finished-projects) на всех языках программирования, не только Python.
 
@@ -69,6 +69,8 @@ weight = 30
 | [backend-projects](https://github.com/Prontoelder/backend-projects) | [Prontoelder](https://github.com/Prontoelder) | Python |  |  |
 | [hangman](https://github.com/szzmmdv/hangman) | [szzmmdv](https://github.com/szzmmdv) | Python |  |  |
 | [hangman.py](https://github.com/nakedborn666/hangman.py) | [nakedborn666](https://github.com/nakedborn666) | Python |  |  |
+| [oop_hangman](https://github.com/szzmmdv/oop_hangman) | [szzmmdv](https://github.com/szzmmdv/) | Python | 📝 [Заметки](https://github.com/Gilenor/Reviews/blob/main/Python/Hangman/szzmmdv-s1mtsh/REVIEW.MD) | Сергей [@ex_cactus](https://t.me/ex_cactus) |
+| [IT_Mentor_Hangman](https://github.com/KoFeVarKaA/IT_Mentor_Hangman) | [KoFeVarKaA](https://github.com/KoFeVarKaA) | Python |  |  |
 
 
 ## Симуляция
@@ -99,6 +101,8 @@ weight = 30
 | [simulation3](https://github.com/Dimkin33/simulation3) | [Dimkin33](https://github.com/Dimkin33) | Python |  |  |
 | [simulation](https://github.com/TheEmpressDiadema/simulation) | [TheEmpressDiadema](https://github.com/TheEmpressDiadema) | Python |  |  |
 | [Simulation](https://github.com/Doworder/Simulation) | [Doworder](https://github.com/Doworder) | Python |  |  |
+| [Simulation](https://github.com/mandalorianec/Simulation) | [mandalorianec](https://github.com/mandalorianec) | Python |  |  |
+| [Simulation](https://github.com/Prontoelder/Simulation) | [Prontoelder](https://github.com/Prontoelder) | Python |  |  |
 
 
 ## Обмен валют
@@ -132,6 +136,10 @@ weight = 30
 | [Exchange_currency_FastAPI](https://github.com/PavelFurochkin/Exchange_currency_FastAPI) | [PavelFurochkin](https://github.com/PavelFurochkin) | Python |  |  |
 | [Currency_Exchange.git](https://github.com/Dimkin33/Currency_Exchange.git) | [Dimkin33](https://github.com/Dimkin33) | Python |  |  |
 | [currency-exchange-fapi](https://github.com/Gevorji/currency-exchange-fapi) | [Gevorji](https://github.com/Gevorji) | Python |  |  |
+| [currency-exchange-fastapi](https://github.com/Gichie/currency-exchange-fastapi) | [Gichie](https://github.com/Gichie) | Python |  |  |
+| [python-exchange-currency](https://github.com/Worker2088/python-exchange-currency) | [Worker2088](https://github.com/Worker2088) | Python |  |  |
+| [Exchange_app](https://github.com/George11pro/Exchange_app) | [George11pro](https://github.com/George11pro) | Python |  |  |
+| [currency_exchange_api](https://github.com/Nazar-Goat/currency_exchange_api) | [Nazar-Goat](https://github.com/Nazar-Goat) | Python |  |  |
 
 
 ## Теннисное табло
