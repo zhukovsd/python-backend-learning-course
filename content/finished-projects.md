@@ -7,7 +7,7 @@ weight = 30
 
 Список реализаций проектов курса (и не только). Для каждого проекта указана ссылка на код, язык программирования/фреймворк, и ссылка на ревью.
 
-138 реализаций, 58 ревью.
+140 реализаций, 61 ревью.
 
 [Полная версия таблицы с реализациями проектов](https://zhukovsd.github.io/java-backend-learning-course/finished-projects) на всех языках программирования, не только Python.
 
@@ -70,7 +70,7 @@ weight = 30
 | [hangman](https://github.com/szzmmdv/hangman) | [szzmmdv](https://github.com/szzmmdv) | Python |  |  |
 | [hangman.py](https://github.com/nakedborn666/hangman.py) | [nakedborn666](https://github.com/nakedborn666) | Python |  |  |
 | [oop_hangman](https://github.com/szzmmdv/oop_hangman) | [szzmmdv](https://github.com/szzmmdv/) | Python | 📝 [Заметки](https://github.com/Gilenor/Reviews/blob/main/Python/Hangman/szzmmdv-s1mtsh/REVIEW.MD) | Сергей [@ex_cactus](https://t.me/ex_cactus) |
-| [IT_Mentor_Hangman](https://github.com/KoFeVarKaA/IT_Mentor_Hangman) | [KoFeVarKaA](https://github.com/KoFeVarKaA) | Python |  |  |
+| [IT_Mentor_Hangman](https://github.com/KoFeVarKaA/IT_Mentor_Hangman) | [KoFeVarKaA](https://github.com/KoFeVarKaA) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/ec417d8e5557fe25780937b289043ae8) | Альф [@Asinim](https://t.me/Asinim) |
 
 
 ## Симуляция
@@ -102,7 +102,8 @@ weight = 30
 | [simulation](https://github.com/TheEmpressDiadema/simulation) | [TheEmpressDiadema](https://github.com/TheEmpressDiadema) | Python |  |  |
 | [Simulation](https://github.com/Doworder/Simulation) | [Doworder](https://github.com/Doworder) | Python |  |  |
 | [Simulation](https://github.com/mandalorianec/Simulation) | [mandalorianec](https://github.com/mandalorianec) | Python |  |  |
-| [Simulation](https://github.com/Prontoelder/Simulation) | [Prontoelder](https://github.com/Prontoelder) | Python |  |  |
+| [Simulation](https://github.com/Prontoelder/Simulation) | [Prontoelder](https://github.com/Prontoelder) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/45cad007b452595a6a682e2b36bc43fd) | Виктор [@csatom](https://t.me/csatom) |
+| [IT_Mentor_Simulation](https://github.com/KoFeVarKaA/IT_Mentor_Simulation) | [KoFeVarKaA](https://github.com/KoFeVarKaA) | Python | 📝 [Заметки](https://gist.github.com/Asenim/caa267f998dad9a97ddc442f7bb4303a) | Альф [@Asinim](https://t.me/Asinim) |
 
 
 ## Обмен валют
@@ -140,6 +141,7 @@ weight = 30
 | [python-exchange-currency](https://github.com/Worker2088/python-exchange-currency) | [Worker2088](https://github.com/Worker2088) | Python |  |  |
 | [Exchange_app](https://github.com/George11pro/Exchange_app) | [George11pro](https://github.com/George11pro) | Python |  |  |
 | [currency_exchange_api](https://github.com/Nazar-Goat/currency_exchange_api) | [Nazar-Goat](https://github.com/Nazar-Goat) | Python |  |  |
+| [CurrencyExchange](https://github.com/mandalorianec/CurrencyExchange) | [mandalorianec](https://github.com/mandalorianec) | Python |  |  |
 
 
 ## Теннисное табло
