@@ -104,7 +104,7 @@ Django - один из основных фреймворков для веб р�
 #### Избранные курсы и учебные ресурсы
 
 - [Плейлист](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8wfmtElObQrBbZjY6XeA06U) по Jinja2 от selfedu
-- [Руководство по шаблонам](https://proglib-io.turbopages.org/turbo/proglib.io/s/p/rukovodstvo-dlya-nachinayushchih-po-shablonam-jinja-v-flask-2022-09-05)
+- [Руководство по шаблонам](https://proglib.io/p/rukovodstvo-dlya-nachinayushchih-po-shablonam-jinja-v-flask-2022-09-05)
 - Практика - проекты 5, 6
 
 ## Что дальше
