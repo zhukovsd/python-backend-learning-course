@@ -56,7 +56,7 @@ ORM - инструмент для стирания границ между за�
 
 #### Избранные курсы и учебные ресурсы
 
-- [Руководство](https://apipython.ru/sqlalchemy-polnoe-rukovodstvo-dlya-nachinayushhih-i-prodvinutyh/) по SQLAlchemy
+- [Руководство](https://habr.com/ru/companies/amvera/articles/849836/) по SQLAlchemy
 - [Плейлист](https://www.youtube.com/playlist?list=PLeLN0qH0-mCXARD_K-USF2wHctxzEVp40) от Артёма Шумейко
 - [Урок](https://pythonru.com/uroki/16-migracii-bazy-dannyh-s-pomoshhju-alembic) по Alembic в контексте фреймворка Flask
 - [Плейлист](https://www.youtube.com/playlist?list=PLYnH8mpFQ4akzzS1D9IHkMuXacb-bD4Cl) по SQLAlchemy и Alembic в контексте FastAPI от Сурена Хореняна
