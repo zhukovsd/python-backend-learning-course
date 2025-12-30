@@ -7,7 +7,7 @@ weight = 30
 
 Список реализаций проектов курса (и не только). Для каждого проекта указана ссылка на код, язык программирования/фреймворк, и ссылка на ревью.
 
-150 реализаций, 69 ревью.
+154 реализаций, 70 ревью.
 
 [Полная версия таблицы с реализациями проектов](https://zhukovsd.github.io/java-backend-learning-course/finished-projects) на всех языках программирования, не только Python.
 
@@ -110,6 +110,7 @@ weight = 30
 | [IT_Mentor_Simulation](https://github.com/KoFeVarKaA/IT_Mentor_Simulation) | [KoFeVarKaA](https://github.com/KoFeVarKaA) | Python | 📝 [Заметки](https://gist.github.com/Asenim/caa267f998dad9a97ddc442f7bb4303a) | Альф [@Asinim](https://t.me/Asinim) |
 | [simulation](https://github.com/nibirietz/simulation) | [nibirietz](https://github.com/nibirietz) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/c810876a87e17ee222ccb69e28758d0f) | Виктор [@csatom](https://t.me/csatom) |
 | [roadmapp_2](https://github.com/Rinat820/roadmapp_2) | [Rinat820](https://github.com/Rinat820) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/367cb740e7eefc5056b9a39590f28631) | Роман [@nibirietz](https://t.me/nibirietz) |
+| [simulation](https://github.com/ikorepanov/simulation) | [ikorepanov](https://github.com/ikorepanov) | Python |  |  |
 
 
 ## Обмен валют
@@ -149,6 +150,8 @@ weight = 30
 | [currency_exchange_api](https://github.com/Nazar-Goat/currency_exchange_api) | [Nazar-Goat](https://github.com/Nazar-Goat) | Python |  |  |
 | [CurrencyExchange](https://github.com/mandalorianec/CurrencyExchange) | [mandalorianec](https://github.com/mandalorianec) | Python |  |  |
 | [currency_exchange](https://github.com/Prontoelder/currency_exchange) | [Prontoelder](https://github.com/Prontoelder) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/3912bed220e885a8c68c5e47152a7d22) | Виктор [@csatom](https://t.me/csatom) |
+| [roadmap_3](https://github.com/Rinat820/roadmap_3) | [Rinat820](https://github.com/Rinat820) | Python |  |  |
+| [CurrencyExchangeFastAPI](https://github.com/mandalorianec/CurrencyExchangeFastAPI) | [mandalorianec](https://github.com/mandalorianec) | Python |  |  |
 
 
 ## Теннисное табло
@@ -194,7 +197,8 @@ weight = 30
 | [Weather.git](https://github.com/Gichie/Weather.git) | [Gichie](https://github.com/Gichie) | Python |  |  |
 | [weather-tracker](https://github.com/ratmeow/weather-tracker) | [ratmeow](https://github.com/ratmeow) | Python |  |  |
 | [WeatherApp](https://gitlab.com/Anikavuk/WeatherApp) | [Anikavuk](https://gitlab.com/Anikavuk) | Python |  |  |
-| [WeatherApp](https://github.com/mandalorianec/WeatherApp) | [mandalorianec](https://github.com/mandalorianec) | Python |  |  |
+| [WeatherApp](https://github.com/mandalorianec/WeatherApp) | [mandalorianec](https://github.com/mandalorianec) | Python | 📝 [Заметки](https://github.com/Victor-Smirnoff/review/blob/main/WeatherApp_by_mandalorianec/review.md) | Виктор [@csatom](https://t.me/csatom) |
+| [weather-web](https://github.com/pocamest/weather-web) | [pocamest](https://github.com/pocamest) | Python |  |  |
 
 
 ## Облачное хранилище файлов
