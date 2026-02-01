@@ -7,7 +7,7 @@ weight = 30
 
 Список реализаций проектов курса (и не только). Для каждого проекта указана ссылка на код, язык программирования/фреймворк, и ссылка на ревью.
 
-154 реализаций, 70 ревью.
+156 реализаций, 70 ревью.
 
 [Полная версия таблицы с реализациями проектов](https://zhukovsd.github.io/java-backend-learning-course/finished-projects) на всех языках программирования, не только Python.
 
@@ -111,6 +111,7 @@ weight = 30
 | [simulation](https://github.com/nibirietz/simulation) | [nibirietz](https://github.com/nibirietz) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/c810876a87e17ee222ccb69e28758d0f) | Виктор [@csatom](https://t.me/csatom) |
 | [roadmapp_2](https://github.com/Rinat820/roadmapp_2) | [Rinat820](https://github.com/Rinat820) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/367cb740e7eefc5056b9a39590f28631) | Роман [@nibirietz](https://t.me/nibirietz) |
 | [simulation](https://github.com/ikorepanov/simulation) | [ikorepanov](https://github.com/ikorepanov) | Python |  |  |
+| [simulation](https://github.com/Anik-p/simulation) | [Anik-p](https://github.com/Anik-p) | Python |  |  |
 
 
 ## Обмен валют
@@ -152,6 +153,7 @@ weight = 30
 | [currency_exchange](https://github.com/Prontoelder/currency_exchange) | [Prontoelder](https://github.com/Prontoelder) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/3912bed220e885a8c68c5e47152a7d22) | Виктор [@csatom](https://t.me/csatom) |
 | [roadmap_3](https://github.com/Rinat820/roadmap_3) | [Rinat820](https://github.com/Rinat820) | Python |  |  |
 | [CurrencyExchangeFastAPI](https://github.com/mandalorianec/CurrencyExchangeFastAPI) | [mandalorianec](https://github.com/mandalorianec) | Python |  |  |
+| [currency-exchange](https://github.com/ikorepanov/currency-exchange) | [ikorepanov](https://github.com/ikorepanov) | Python |  |  |
 
 
 ## Теннисное табло
