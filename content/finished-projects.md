@@ -7,7 +7,7 @@ weight = 30
 
 Список реализаций проектов курса (и не только). Для каждого проекта указана ссылка на код, язык программирования/фреймворк, и ссылка на ревью.
 
-156 реализаций, 70 ревью.
+160 реализаций, 73 ревью.
 
 [Полная версия таблицы с реализациями проектов](https://zhukovsd.github.io/java-backend-learning-course/finished-projects) на всех языках программирования, не только Python.
 
@@ -153,7 +153,9 @@ weight = 30
 | [currency_exchange](https://github.com/Prontoelder/currency_exchange) | [Prontoelder](https://github.com/Prontoelder) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/3912bed220e885a8c68c5e47152a7d22) | Виктор [@csatom](https://t.me/csatom) |
 | [roadmap_3](https://github.com/Rinat820/roadmap_3) | [Rinat820](https://github.com/Rinat820) | Python |  |  |
 | [CurrencyExchangeFastAPI](https://github.com/mandalorianec/CurrencyExchangeFastAPI) | [mandalorianec](https://github.com/mandalorianec) | Python |  |  |
-| [currency-exchange](https://github.com/ikorepanov/currency-exchange) | [ikorepanov](https://github.com/ikorepanov) | Python |  |  |
+| [currency-exchange](https://github.com/ikorepanov/currency-exchange) | [ikorepanov](https://github.com/ikorepanov) | Python | 📝 [#1](https://gist.github.com/OlegTihii/cc95ff9624c8ed16a461c0f0e764ea47), 📝 [#2](https://github.com/Victor-Smirnoff/review/blob/main/content/ikorepanov_currency_exchange.md) | Сергей [@grandpraline](https://t.me/grandpraline), Виктор [@csatom](https://t.me/csatom) |
+| [currencies](https://github.com/zpenr/currencies) | [zpenr](https://github.com/zpenr) | Python |  |  |
+| [IT_Mentor_Exchange_Currency](https://github.com/KoFeVarKaA/IT_Mentor_Exchange_Currency) | [KoFeVarKaA](https://github.com/KoFeVarKaA) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/e836b5ee56d1d5014830a264d1058395) | Юра [@y8191](https://t.me/y8191) |
 
 
 ## Теннисное табло
@@ -180,6 +182,7 @@ weight = 30
 | [tennis_scoreboard.git](https://github.com/Dimkin33/tennis_scoreboard.git) | [Dimkin33](https://github.com/Dimkin33) | Python |  |  |
 | [TennisMatchScoreboard](https://github.com/mandalorianec/TennisMatchScoreboard) | [mandalorianec](https://github.com/mandalorianec) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/ac015baf37ae5ead21fa979fd9ceb099) | Виктор [@csatom](https://t.me/csatom) |
 | [Tennis_Match_Scoreboard](https://github.com/George11pro/Tennis_Match_Scoreboard) | [George11pro](https://github.com/George11pro) | Python |  |  |
+| [tennis-match-board](https://github.com/zpenr/tennis-match-board) | [zpenr](https://github.com/zpenr) | Python |  |  |
 
 
 ## Погода
@@ -212,6 +215,7 @@ weight = 30
 | [Cloud_file_storage](https://github.com/Wh4tisl0ve/Cloud_file_storage) | [Wh4tisl0ve](https://github.com/Wh4tisl0ve) | Python |  |  |
 | [CloudStorage](https://github.com/v1adis1av28/CloudStorage) | [v1adis1av28](https://github.com/v1adis1av28) | Python |  |  |
 | [CloudFileStorage](https://github.com/Gichie/CloudFileStorage) | [Gichie](https://github.com/Gichie) | Python |  |  |
+| [open-disk](https://github.com/nonsess/open-disk) | [nonsess](https://github.com/nonsess) | Python |  |  |
 
 
 ## Планировщик задач
