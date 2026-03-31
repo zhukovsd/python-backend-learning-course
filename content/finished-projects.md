@@ -7,7 +7,7 @@ weight = 30
 
 Список реализаций проектов курса (и не только). Для каждого проекта указана ссылка на код, язык программирования/фреймворк, и ссылка на ревью.
 
-160 реализаций, 73 ревью.
+168 реализаций, 76 ревью.
 
 [Полная версия таблицы с реализациями проектов](https://zhukovsd.github.io/java-backend-learning-course/finished-projects) на всех языках программирования, не только Python.
 
@@ -75,6 +75,9 @@ weight = 30
 | [roadmap_1](https://github.com/Rinat820/roadmap_1) | [Rinat820](https://github.com/Rinat820) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/4675d25e7ec45aa1234f2de0b42831d7) | Дмитрий [@DmMaff](https://t.me/DmMaff) |
 | [hangman](https://github.com/zpenr/hangman) | [zpenr](https://github.com/zpenr) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/b9e5dbefbb4386db5b2158523962e0ff) | Сергей [@grandpraline](https://t.me/grandpraline) |
 | [hangman](https://github.com/ElenaVasilkova/hangman) | [ElenaVasilkova](https://github.com/ElenaVasilkova) | Python |  |  |
+| [hangman](https://github.com/atnott/hangman) | [atnott](https://github.com/atnott) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/023f7e06ab96e3830b8545518b310811) | Юра [@y8191](https://t.me/y8191) |
+| [gallows](https://github.com/Artur290795/gallows) | [Artur290795](https://github.com/Artur290795) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/b493d6d5f5408c94e8cddc05cb611589) | Юра [@y8191](https://t.me/y8191) |
+| [Hangman](https://github.com/AntonFeoktistov/Hangman) | [AntonFeoktistov](https://github.com/AntonFeoktistov) | Python |  |  |
 
 
 ## Симуляция
@@ -156,6 +159,7 @@ weight = 30
 | [currency-exchange](https://github.com/ikorepanov/currency-exchange) | [ikorepanov](https://github.com/ikorepanov) | Python | 📝 [#1](https://gist.github.com/OlegTihii/cc95ff9624c8ed16a461c0f0e764ea47), 📝 [#2](https://github.com/Victor-Smirnoff/review/blob/main/content/ikorepanov_currency_exchange.md) | Сергей [@grandpraline](https://t.me/grandpraline), Виктор [@csatom](https://t.me/csatom) |
 | [currencies](https://github.com/zpenr/currencies) | [zpenr](https://github.com/zpenr) | Python |  |  |
 | [IT_Mentor_Exchange_Currency](https://github.com/KoFeVarKaA/IT_Mentor_Exchange_Currency) | [KoFeVarKaA](https://github.com/KoFeVarKaA) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/e836b5ee56d1d5014830a264d1058395) | Юра [@y8191](https://t.me/y8191) |
+| [CurrencyExchange](https://github.com/AntonFeoktistov/CurrencyExchange) | [AntonFeoktistov](https://github.com/AntonFeoktistov) | Python |  |  |
 
 
 ## Теннисное табло
@@ -183,6 +187,9 @@ weight = 30
 | [TennisMatchScoreboard](https://github.com/mandalorianec/TennisMatchScoreboard) | [mandalorianec](https://github.com/mandalorianec) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/ac015baf37ae5ead21fa979fd9ceb099) | Виктор [@csatom](https://t.me/csatom) |
 | [Tennis_Match_Scoreboard](https://github.com/George11pro/Tennis_Match_Scoreboard) | [George11pro](https://github.com/George11pro) | Python |  |  |
 | [tennis-match-board](https://github.com/zpenr/tennis-match-board) | [zpenr](https://github.com/zpenr) | Python |  |  |
+| [IT_Mentor_Tennis_Match_Scoreboard](https://github.com/KoFeVarKaA/IT_Mentor_Tennis_Match_Scoreboard) | [KoFeVarKaA](https://github.com/KoFeVarKaA) | Python |  |  |
+| [roadmap_4](https://github.com/Rinat820/roadmap_4) | [Rinat820](https://github.com/Rinat820) | Python |  |  |
+| [Tennis](https://github.com/AntonFeoktistov/Tennis) | [AntonFeoktistov](https://github.com/AntonFeoktistov) | Python |  |  |
 
 
 ## Погода
@@ -216,6 +223,7 @@ weight = 30
 | [CloudStorage](https://github.com/v1adis1av28/CloudStorage) | [v1adis1av28](https://github.com/v1adis1av28) | Python |  |  |
 | [CloudFileStorage](https://github.com/Gichie/CloudFileStorage) | [Gichie](https://github.com/Gichie) | Python |  |  |
 | [open-disk](https://github.com/nonsess/open-disk) | [nonsess](https://github.com/nonsess) | Python |  |  |
+| [cloud_storage](https://github.com/KeshaVoz/cloud_storage) | [KeshaVoz](https://github.com/KeshaVoz) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/c448955de96bcf453777ce77bedaa8a5) | Альф [@Asinim](https://t.me/Asinim) |
 
 
 ## Планировщик задач
