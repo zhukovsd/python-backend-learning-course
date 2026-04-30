@@ -7,7 +7,7 @@ weight = 30
 
 Список реализаций проектов курса (и не только). Для каждого проекта указана ссылка на код, язык программирования/фреймворк, и ссылка на ревью.
 
-168 реализаций, 76 ревью.
+174 реализаций, 80 ревью.
 
 [Полная версия таблицы с реализациями проектов](https://zhukovsd.github.io/java-backend-learning-course/finished-projects) на всех языках программирования, не только Python.
 
@@ -78,6 +78,7 @@ weight = 30
 | [hangman](https://github.com/atnott/hangman) | [atnott](https://github.com/atnott) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/023f7e06ab96e3830b8545518b310811) | Юра [@y8191](https://t.me/y8191) |
 | [gallows](https://github.com/Artur290795/gallows) | [Artur290795](https://github.com/Artur290795) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/b493d6d5f5408c94e8cddc05cb611589) | Юра [@y8191](https://t.me/y8191) |
 | [Hangman](https://github.com/AntonFeoktistov/Hangman) | [AntonFeoktistov](https://github.com/AntonFeoktistov) | Python |  |  |
+| [hangman-game](https://github.com/nikn808/hangman-game) | [nikn808](https://github.com/nikn808) | Python |  |  |
 
 
 ## Симуляция
@@ -115,6 +116,8 @@ weight = 30
 | [roadmapp_2](https://github.com/Rinat820/roadmapp_2) | [Rinat820](https://github.com/Rinat820) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/367cb740e7eefc5056b9a39590f28631) | Роман [@nibirietz](https://t.me/nibirietz) |
 | [simulation](https://github.com/ikorepanov/simulation) | [ikorepanov](https://github.com/ikorepanov) | Python |  |  |
 | [simulation](https://github.com/Anik-p/simulation) | [Anik-p](https://github.com/Anik-p) | Python |  |  |
+| [simulation](https://github.com/Artur290795/simulation) | [Artur290795](https://github.com/Artur290795) | Python | 📝 [Заметки](https://gist.github.com/Asenim/aaaa1a39b2584f0d1bb7fef9d028367e) | Альф [@Asinim](https://t.me/Asinim) |
+| [Simulation.git](https://github.com/nikn808/Simulation.git) | [nikn808](https://github.com/nikn808) | Python |  |  |
 
 
 ## Обмен валют
@@ -160,6 +163,7 @@ weight = 30
 | [currencies](https://github.com/zpenr/currencies) | [zpenr](https://github.com/zpenr) | Python |  |  |
 | [IT_Mentor_Exchange_Currency](https://github.com/KoFeVarKaA/IT_Mentor_Exchange_Currency) | [KoFeVarKaA](https://github.com/KoFeVarKaA) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/e836b5ee56d1d5014830a264d1058395) | Юра [@y8191](https://t.me/y8191) |
 | [CurrencyExchange](https://github.com/AntonFeoktistov/CurrencyExchange) | [AntonFeoktistov](https://github.com/AntonFeoktistov) | Python |  |  |
+| [currency_exchange.git](https://github.com/Anik-p/currency_exchange.git) | [Anik-p](https://github.com/Anik-p) | Python |  |  |
 
 
 ## Теннисное табло
@@ -190,6 +194,7 @@ weight = 30
 | [IT_Mentor_Tennis_Match_Scoreboard](https://github.com/KoFeVarKaA/IT_Mentor_Tennis_Match_Scoreboard) | [KoFeVarKaA](https://github.com/KoFeVarKaA) | Python |  |  |
 | [roadmap_4](https://github.com/Rinat820/roadmap_4) | [Rinat820](https://github.com/Rinat820) | Python |  |  |
 | [Tennis](https://github.com/AntonFeoktistov/Tennis) | [AntonFeoktistov](https://github.com/AntonFeoktistov) | Python |  |  |
+| [python-tennis-scoreboard](https://github.com/Worker2088/python-tennis-scoreboard) | [Worker2088](https://github.com/Worker2088) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/825dc7b2c8a98d28c2f17f8bc5085274) | Максим [@apostol_fet](https://t.me/apostol_fet) |
 
 
 ## Погода
@@ -222,8 +227,9 @@ weight = 30
 | [Cloud_file_storage](https://github.com/Wh4tisl0ve/Cloud_file_storage) | [Wh4tisl0ve](https://github.com/Wh4tisl0ve) | Python |  |  |
 | [CloudStorage](https://github.com/v1adis1av28/CloudStorage) | [v1adis1av28](https://github.com/v1adis1av28) | Python |  |  |
 | [CloudFileStorage](https://github.com/Gichie/CloudFileStorage) | [Gichie](https://github.com/Gichie) | Python |  |  |
-| [open-disk](https://github.com/nonsess/open-disk) | [nonsess](https://github.com/nonsess) | Python |  |  |
+| [open-disk](https://github.com/nonsess/open-disk) | [nonsess](https://github.com/nonsess) | Python | 📝 [Заметки](https://gist.github.com/u-cha/687430bfe4c162932112bb10a93b73b6) | Сергей [@grandpraline](https://t.me/grandpraline) |
 | [cloud_storage](https://github.com/KeshaVoz/cloud_storage) | [KeshaVoz](https://github.com/KeshaVoz) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/c448955de96bcf453777ce77bedaa8a5) | Альф [@Asinim](https://t.me/Asinim) |
+| [cloud-storage-api](https://github.com/pocamest/cloud-storage-api) | [pocamest](https://github.com/pocamest) | Python | 📝 [Заметки](https://gist.github.com/u-cha/a542a946b75a9d85114b3f506c7841f4) | Сергей [@grandpraline](https://t.me/grandpraline) |
 
 
 ## Планировщик задач
