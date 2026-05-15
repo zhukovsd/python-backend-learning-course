@@ -7,7 +7,7 @@ weight = 30
 
 Список реализаций проектов курса (и не только). Для каждого проекта указана ссылка на код, язык программирования/фреймворк, и ссылка на ревью.
 
-174 реализаций, 80 ревью.
+176 реализаций, 80 ревью.
 
 [Полная версия таблицы с реализациями проектов](https://zhukovsd.github.io/java-backend-learning-course/finished-projects) на всех языках программирования, не только Python.
 
@@ -79,6 +79,7 @@ weight = 30
 | [gallows](https://github.com/Artur290795/gallows) | [Artur290795](https://github.com/Artur290795) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/b493d6d5f5408c94e8cddc05cb611589) | Юра [@y8191](https://t.me/y8191) |
 | [Hangman](https://github.com/AntonFeoktistov/Hangman) | [AntonFeoktistov](https://github.com/AntonFeoktistov) | Python |  |  |
 | [hangman-game](https://github.com/nikn808/hangman-game) | [nikn808](https://github.com/nikn808) | Python |  |  |
+| [python_hangman](https://github.com/touddadon/python_hangman) | [touddadon](https://github.com/touddadon) | Python |  |  |
 
 
 ## Симуляция
@@ -118,6 +119,7 @@ weight = 30
 | [simulation](https://github.com/Anik-p/simulation) | [Anik-p](https://github.com/Anik-p) | Python |  |  |
 | [simulation](https://github.com/Artur290795/simulation) | [Artur290795](https://github.com/Artur290795) | Python | 📝 [Заметки](https://gist.github.com/Asenim/aaaa1a39b2584f0d1bb7fef9d028367e) | Альф [@Asinim](https://t.me/Asinim) |
 | [Simulation.git](https://github.com/nikn808/Simulation.git) | [nikn808](https://github.com/nikn808) | Python |  |  |
+| [Simulation](https://github.com/Benfych/Simulation) | [Benfych](https://github.com/Benfych) | Python |  |  |
 
 
 ## Обмен валют
