@@ -7,7 +7,7 @@ weight = 30
 
 Список реализаций проектов курса (и не только). Для каждого проекта указана ссылка на код, язык программирования/фреймворк, и ссылка на ревью.
 
-174 реализаций, 80 ревью.
+179 реализаций, 84 ревью.
 
 [Полная версия таблицы с реализациями проектов](https://zhukovsd.github.io/java-backend-learning-course/finished-projects) на всех языках программирования, не только Python.
 
@@ -79,6 +79,7 @@ weight = 30
 | [gallows](https://github.com/Artur290795/gallows) | [Artur290795](https://github.com/Artur290795) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/b493d6d5f5408c94e8cddc05cb611589) | Юра [@y8191](https://t.me/y8191) |
 | [Hangman](https://github.com/AntonFeoktistov/Hangman) | [AntonFeoktistov](https://github.com/AntonFeoktistov) | Python |  |  |
 | [hangman-game](https://github.com/nikn808/hangman-game) | [nikn808](https://github.com/nikn808) | Python |  |  |
+| [python_hangman](https://github.com/touddadon/python_hangman) | [touddadon](https://github.com/touddadon) | Python | 📝 [Заметки](https://github.com/Gilenor/Reviews/blob/main/Python/Hangman/touddadon/python_hangman/REVIEW.md) | Сергей [@ex_cactus](https://t.me/ex_cactus) |
 
 
 ## Симуляция
@@ -117,7 +118,9 @@ weight = 30
 | [simulation](https://github.com/ikorepanov/simulation) | [ikorepanov](https://github.com/ikorepanov) | Python |  |  |
 | [simulation](https://github.com/Anik-p/simulation) | [Anik-p](https://github.com/Anik-p) | Python |  |  |
 | [simulation](https://github.com/Artur290795/simulation) | [Artur290795](https://github.com/Artur290795) | Python | 📝 [Заметки](https://gist.github.com/Asenim/aaaa1a39b2584f0d1bb7fef9d028367e) | Альф [@Asinim](https://t.me/Asinim) |
-| [Simulation.git](https://github.com/nikn808/Simulation.git) | [nikn808](https://github.com/nikn808) | Python |  |  |
+| [Simulation](https://github.com/nikn808/Simulation) | [nikn808](https://github.com/nikn808) | Python | 📝 [Заметки](https://github.com/Gilenor/Reviews/blob/main/Python/Simulation/nikn808/Simulation/REVIEW.md) | Сергей [@ex_cactus](https://t.me/ex_cactus) |
+| [Simulation](https://github.com/Benfych/Simulation) | [Benfych](https://github.com/Benfych) | Python | 📝 [Заметки](https://github.com/Gilenor/Reviews/blob/main/Python/Simulation/Benfych/REVIEW.md) | Сергей [@ex_cactus](https://t.me/ex_cactus) |
+| [simulation](https://github.com/kkeeperr/simulation) | [kkeeperr](https://github.com/kkeeperr) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/5f1750207929dd871063413cc376186b) | Сергей [@ex_cactus](https://t.me/ex_cactus) |
 
 
 ## Обмен валют
@@ -216,6 +219,7 @@ weight = 30
 | [WeatherApp](https://gitlab.com/Anikavuk/WeatherApp) | [Anikavuk](https://gitlab.com/Anikavuk) | Python |  |  |
 | [WeatherApp](https://github.com/mandalorianec/WeatherApp) | [mandalorianec](https://github.com/mandalorianec) | Python | 📝 [Заметки](https://github.com/Victor-Smirnoff/review/blob/main/WeatherApp_by_mandalorianec/review.md) | Виктор [@csatom](https://t.me/csatom) |
 | [weather-web](https://github.com/pocamest/weather-web) | [pocamest](https://github.com/pocamest) | Python |  |  |
+| [python-weather](https://github.com/Worker2088/python-weather) | [Worker2088](https://github.com/Worker2088) | Python |  |  |
 
 
 ## Облачное хранилище файлов
@@ -230,6 +234,7 @@ weight = 30
 | [open-disk](https://github.com/nonsess/open-disk) | [nonsess](https://github.com/nonsess) | Python | 📝 [Заметки](https://gist.github.com/u-cha/687430bfe4c162932112bb10a93b73b6) | Сергей [@grandpraline](https://t.me/grandpraline) |
 | [cloud_storage](https://github.com/KeshaVoz/cloud_storage) | [KeshaVoz](https://github.com/KeshaVoz) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/c448955de96bcf453777ce77bedaa8a5) | Альф [@Asinim](https://t.me/Asinim) |
 | [cloud-storage-api](https://github.com/pocamest/cloud-storage-api) | [pocamest](https://github.com/pocamest) | Python | 📝 [Заметки](https://gist.github.com/u-cha/a542a946b75a9d85114b3f506c7841f4) | Сергей [@grandpraline](https://t.me/grandpraline) |
+| [Cloud_file_storage](https://github.com/George11pro/Cloud_file_storage) | [George11pro](https://github.com/George11pro) | Python |  |  |
 
 
 ## Планировщик задач
