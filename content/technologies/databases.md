@@ -60,7 +60,7 @@ ORM - инструмент для стирания границ между за�
 - [Плейлист](https://www.youtube.com/playlist?list=PLeLN0qH0-mCXARD_K-USF2wHctxzEVp40) от Артёма Шумейко
 - [Урок](https://pythonru.com/uroki/16-migracii-bazy-dannyh-s-pomoshhju-alembic) по Alembic в контексте фреймворка Flask
 - [Плейлист](https://www.youtube.com/playlist?list=PLYnH8mpFQ4akzzS1D9IHkMuXacb-bD4Cl) по SQLAlchemy и Alembic в контексте FastAPI от Сурена Хореняна
-- Практика - проекты с 4 по 7
+- Практика - проекты с 4 по 6
 
 ## Инструменты миграций
 
@@ -79,7 +79,7 @@ ORM - инструмент для стирания границ между за�
 
 - Раздел про Django Migrations в курсе [Добрый, добрый Django](https://stepik.org/course/183363/) от Сергея Балакирева
 - Видео из [плейлиста](https://www.youtube.com/playlist?list=PLYnH8mpFQ4akzzS1D9IHkMuXacb-bD4Cl) по SQLAlchemy и Alembic в контексте FastAPI от Сурена Хореняна
-- Практика - проекты с 5 по 7
+- Практика - проекты с 5 по 6
 
 ## NoSQL базы данных
 
@@ -89,7 +89,7 @@ SQL - самая нужная для джуниора технология дл�
 
 #### Избранные курсы и учебные ресурсы
 
-- Практика - проекты 6 и 7
+- Практика - проекты 5 и 6
 
 ## Что дальше
 

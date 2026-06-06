@@ -33,7 +33,7 @@ title = 'Frontend'
 #### Избранные курсы и учебные ресурсы
 
 - Раздел про Bootstrap на FreeCodeCamp - [https://www.freecodecamp.org/learn/front-end-development-libraries/](https://www.freecodecamp.org/learn/front-end-development-libraries/)
-- Практика - проекты с 5 по 7
+- Практика - проекты 5 и 6
 
 ## Javascript, Fetch API
 

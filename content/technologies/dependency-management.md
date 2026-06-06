@@ -78,4 +78,4 @@ title = 'Работа с зависимостями в Python'
 - [https://pythonspeed.com/articles/poetry-vs-docker-caching/](https://pythonspeed.com/articles/poetry-vs-docker-caching/)
 - [https://pythonspeed.com/articles/activate-virtualenv-dockerfile/](https://pythonspeed.com/articles/activate-virtualenv-dockerfile/)
 - [https://ritza.co/articles/gen-articles/pipenv-vs-virtualenv-vs-poetry-vs-pyenv-vs-pip/](https://ritza.co/articles/gen-articles/pipenv-vs-virtualenv-vs-poetry-vs-pyenv-vs-pip/)
-- Практика - проекты роадмапа с 4 по 7
+- Практика - проекты роадмапа с 4 по 6
