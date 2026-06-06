@@ -36,7 +36,7 @@ title: Главная страница
 
 #### Матрица навыков и проектов
 
-![Screenshot 2023-09-24 at 23 41 56](https://github.com/zhukovsd/python-backend-learning-course/assets/14361885/8b6f64ca-a264-45aa-a735-42fa9ce886be)
+![Матрица проектов](/python-backend-learning-course/images/python-roadmap-project-matrix.png)
 
 Идея матрицы - визуализировать, как проекты охватывают больше и больше сфер знаний.
 
