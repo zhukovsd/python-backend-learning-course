@@ -7,7 +7,7 @@ weight = 30
 
 Список реализаций проектов курса (и не только). Для каждого проекта указана ссылка на код, язык программирования/фреймворк, и ссылка на ревью.
 
-179 реализаций, 84 ревью.
+182 реализаций, 84 ревью.
 
 [Полная версия таблицы с реализациями проектов](https://zhukovsd.github.io/java-backend-learning-course/finished-projects) на всех языках программирования, не только Python.
 
@@ -121,6 +121,7 @@ weight = 30
 | [Simulation](https://github.com/nikn808/Simulation) | [nikn808](https://github.com/nikn808) | Python | 📝 [Заметки](https://github.com/Gilenor/Reviews/blob/main/Python/Simulation/nikn808/Simulation/REVIEW.md) | Сергей [@ex_cactus](https://t.me/ex_cactus) |
 | [Simulation](https://github.com/Benfych/Simulation) | [Benfych](https://github.com/Benfych) | Python | 📝 [Заметки](https://github.com/Gilenor/Reviews/blob/main/Python/Simulation/Benfych/REVIEW.md) | Сергей [@ex_cactus](https://t.me/ex_cactus) |
 | [simulation](https://github.com/kkeeperr/simulation) | [kkeeperr](https://github.com/kkeeperr) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/5f1750207929dd871063413cc376186b) | Сергей [@ex_cactus](https://t.me/ex_cactus) |
+| [Simulation_2D](https://github.com/Vadim-Neshytoi/Simulation_2D) | [Vadim-Neshytoi](https://github.com/Vadim-Neshytoi) | Python |  |  |
 
 
 ## Обмен валют
@@ -167,6 +168,7 @@ weight = 30
 | [IT_Mentor_Exchange_Currency](https://github.com/KoFeVarKaA/IT_Mentor_Exchange_Currency) | [KoFeVarKaA](https://github.com/KoFeVarKaA) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/e836b5ee56d1d5014830a264d1058395) | Юра [@y8191](https://t.me/y8191) |
 | [CurrencyExchange](https://github.com/AntonFeoktistov/CurrencyExchange) | [AntonFeoktistov](https://github.com/AntonFeoktistov) | Python |  |  |
 | [currency_exchange.git](https://github.com/Anik-p/currency_exchange.git) | [Anik-p](https://github.com/Anik-p) | Python |  |  |
+| [CurenncyExchangeDRF](https://github.com/KhudopayMA/CurenncyExchangeDRF) | [KhudopayMA](https://github.com/KhudopayMA) | Python |  |  |
 
 
 ## Теннисное табло
@@ -220,6 +222,7 @@ weight = 30
 | [WeatherApp](https://github.com/mandalorianec/WeatherApp) | [mandalorianec](https://github.com/mandalorianec) | Python | 📝 [Заметки](https://github.com/Victor-Smirnoff/review/blob/main/WeatherApp_by_mandalorianec/review.md) | Виктор [@csatom](https://t.me/csatom) |
 | [weather-web](https://github.com/pocamest/weather-web) | [pocamest](https://github.com/pocamest) | Python |  |  |
 | [python-weather](https://github.com/Worker2088/python-weather) | [Worker2088](https://github.com/Worker2088) | Python |  |  |
+| [Weather2](https://github.com/AntonFeoktistov/Weather2) | [AntonFeoktistov](https://github.com/AntonFeoktistov) | Python |  |  |
 
 
 ## Облачное хранилище файлов
