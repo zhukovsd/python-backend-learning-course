@@ -7,7 +7,7 @@ weight = 30
 
 Список реализаций проектов курса (и не только). Для каждого проекта указана ссылка на код, язык программирования/фреймворк, и ссылка на ревью.
 
-179 реализаций, 84 ревью.
+185 реализаций, 86 ревью.
 
 [Полная версия таблицы с реализациями проектов](https://zhukovsd.github.io/java-backend-learning-course/finished-projects) на всех языках программирования, не только Python.
 
@@ -80,6 +80,7 @@ weight = 30
 | [Hangman](https://github.com/AntonFeoktistov/Hangman) | [AntonFeoktistov](https://github.com/AntonFeoktistov) | Python |  |  |
 | [hangman-game](https://github.com/nikn808/hangman-game) | [nikn808](https://github.com/nikn808) | Python |  |  |
 | [python_hangman](https://github.com/touddadon/python_hangman) | [touddadon](https://github.com/touddadon) | Python | 📝 [Заметки](https://github.com/Gilenor/Reviews/blob/main/Python/Hangman/touddadon/python_hangman/REVIEW.md) | Сергей [@ex_cactus](https://t.me/ex_cactus) |
+| [Gallows](https://github.com/HyPper1oN/Gallows) | [HyPper1oN](https://github.com/HyPper1oN) | Python |  |  |
 
 
 ## Симуляция
@@ -121,6 +122,7 @@ weight = 30
 | [Simulation](https://github.com/nikn808/Simulation) | [nikn808](https://github.com/nikn808) | Python | 📝 [Заметки](https://github.com/Gilenor/Reviews/blob/main/Python/Simulation/nikn808/Simulation/REVIEW.md) | Сергей [@ex_cactus](https://t.me/ex_cactus) |
 | [Simulation](https://github.com/Benfych/Simulation) | [Benfych](https://github.com/Benfych) | Python | 📝 [Заметки](https://github.com/Gilenor/Reviews/blob/main/Python/Simulation/Benfych/REVIEW.md) | Сергей [@ex_cactus](https://t.me/ex_cactus) |
 | [simulation](https://github.com/kkeeperr/simulation) | [kkeeperr](https://github.com/kkeeperr) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/5f1750207929dd871063413cc376186b) | Сергей [@ex_cactus](https://t.me/ex_cactus) |
+| [Simulation_2D](https://github.com/Vadim-Neshytoi/Simulation_2D) | [Vadim-Neshytoi](https://github.com/Vadim-Neshytoi) | Python |  |  |
 
 
 ## Обмен валют
@@ -167,6 +169,8 @@ weight = 30
 | [IT_Mentor_Exchange_Currency](https://github.com/KoFeVarKaA/IT_Mentor_Exchange_Currency) | [KoFeVarKaA](https://github.com/KoFeVarKaA) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/e836b5ee56d1d5014830a264d1058395) | Юра [@y8191](https://t.me/y8191) |
 | [CurrencyExchange](https://github.com/AntonFeoktistov/CurrencyExchange) | [AntonFeoktistov](https://github.com/AntonFeoktistov) | Python |  |  |
 | [currency_exchange.git](https://github.com/Anik-p/currency_exchange.git) | [Anik-p](https://github.com/Anik-p) | Python |  |  |
+| [CurenncyExchangeDRF](https://github.com/KhudopayMA/CurenncyExchangeDRF) | [KhudopayMA](https://github.com/KhudopayMA) | Python |  |  |
+| [currency-exchange](https://github.com/nikn808/currency-exchange) | [nikn808](https://github.com/nikn808) | Python |  |  |
 
 
 ## Теннисное табло
@@ -220,6 +224,7 @@ weight = 30
 | [WeatherApp](https://github.com/mandalorianec/WeatherApp) | [mandalorianec](https://github.com/mandalorianec) | Python | 📝 [Заметки](https://github.com/Victor-Smirnoff/review/blob/main/WeatherApp_by_mandalorianec/review.md) | Виктор [@csatom](https://t.me/csatom) |
 | [weather-web](https://github.com/pocamest/weather-web) | [pocamest](https://github.com/pocamest) | Python |  |  |
 | [python-weather](https://github.com/Worker2088/python-weather) | [Worker2088](https://github.com/Worker2088) | Python |  |  |
+| [Weather2](https://github.com/AntonFeoktistov/Weather2) | [AntonFeoktistov](https://github.com/AntonFeoktistov) | Python |  |  |
 
 
 ## Облачное хранилище файлов
@@ -234,7 +239,8 @@ weight = 30
 | [open-disk](https://github.com/nonsess/open-disk) | [nonsess](https://github.com/nonsess) | Python | 📝 [Заметки](https://gist.github.com/u-cha/687430bfe4c162932112bb10a93b73b6) | Сергей [@grandpraline](https://t.me/grandpraline) |
 | [cloud_storage](https://github.com/KeshaVoz/cloud_storage) | [KeshaVoz](https://github.com/KeshaVoz) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/c448955de96bcf453777ce77bedaa8a5) | Альф [@Asinim](https://t.me/Asinim) |
 | [cloud-storage-api](https://github.com/pocamest/cloud-storage-api) | [pocamest](https://github.com/pocamest) | Python | 📝 [Заметки](https://gist.github.com/u-cha/a542a946b75a9d85114b3f506c7841f4) | Сергей [@grandpraline](https://t.me/grandpraline) |
-| [Cloud_file_storage](https://github.com/George11pro/Cloud_file_storage) | [George11pro](https://github.com/George11pro) | Python |  |  |
+| [Cloud_file_storage](https://github.com/George11pro/Cloud_file_storage) | [George11pro](https://github.com/George11pro) | Python | 📝 [Заметки](https://gist.github.com/Asenim/24aa98874ad9166150b7c12e09a2daf7) | Альф [@Asinim](https://t.me/Asinim) |
+| [python-cloud](https://github.com/Worker2088/python-cloud) | [Worker2088](https://github.com/Worker2088) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/1c2a65444017eaca1940c64e752b332d) | Максим [@apostol_fet](https://t.me/apostol_fet) |
 
 
 ## Планировщик задач
