@@ -7,7 +7,7 @@ weight = 30
 
 Список реализаций проектов курса (и не только). Для каждого проекта указана ссылка на код, язык программирования/фреймворк, и ссылка на ревью.
 
-185 реализаций, 86 ревью.
+192 реализаций, 87 ревью.
 
 [Полная версия таблицы с реализациями проектов](https://zhukovsd.github.io/java-backend-learning-course/finished-projects) на всех языках программирования, не только Python.
 
@@ -171,6 +171,8 @@ weight = 30
 | [currency_exchange.git](https://github.com/Anik-p/currency_exchange.git) | [Anik-p](https://github.com/Anik-p) | Python |  |  |
 | [CurenncyExchangeDRF](https://github.com/KhudopayMA/CurenncyExchangeDRF) | [KhudopayMA](https://github.com/KhudopayMA) | Python |  |  |
 | [currency-exchange](https://github.com/nikn808/currency-exchange) | [nikn808](https://github.com/nikn808) | Python |  |  |
+| [Currency-Exchange-REST-API](https://github.com/Vadim-Neshytoi/Currency-Exchange-REST-API) | [Vadim-Neshytoi](https://github.com/Vadim-Neshytoi) | Python |  |  |
+| [currency-exchanger](https://github.com/nibirietz/currency-exchanger) | [nibirietz](https://github.com/nibirietz) | Python |  |  |
 
 
 ## Теннисное табло
@@ -202,6 +204,8 @@ weight = 30
 | [roadmap_4](https://github.com/Rinat820/roadmap_4) | [Rinat820](https://github.com/Rinat820) | Python |  |  |
 | [Tennis](https://github.com/AntonFeoktistov/Tennis) | [AntonFeoktistov](https://github.com/AntonFeoktistov) | Python |  |  |
 | [python-tennis-scoreboard](https://github.com/Worker2088/python-tennis-scoreboard) | [Worker2088](https://github.com/Worker2088) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/825dc7b2c8a98d28c2f17f8bc5085274) | Максим [@apostol_fet](https://t.me/apostol_fet) |
+| [Tennis_match_scoreboard](https://github.com/nikn808/Tennis_match_scoreboard) | [nikn808](https://github.com/nikn808) | Python |  |  |
+| [TennisMatchScoreboard](https://github.com/KhudopayMA/TennisMatchScoreboard) | [KhudopayMA](https://github.com/KhudopayMA) | Python |  |  |
 
 
 ## Погода
@@ -241,6 +245,8 @@ weight = 30
 | [cloud-storage-api](https://github.com/pocamest/cloud-storage-api) | [pocamest](https://github.com/pocamest) | Python | 📝 [Заметки](https://gist.github.com/u-cha/a542a946b75a9d85114b3f506c7841f4) | Сергей [@grandpraline](https://t.me/grandpraline) |
 | [Cloud_file_storage](https://github.com/George11pro/Cloud_file_storage) | [George11pro](https://github.com/George11pro) | Python | 📝 [Заметки](https://gist.github.com/Asenim/24aa98874ad9166150b7c12e09a2daf7) | Альф [@Asinim](https://t.me/Asinim) |
 | [python-cloud](https://github.com/Worker2088/python-cloud) | [Worker2088](https://github.com/Worker2088) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/1c2a65444017eaca1940c64e752b332d) | Максим [@apostol_fet](https://t.me/apostol_fet) |
+| [cloud-file-storage](https://github.com/gomode13/cloud-file-storage) | [gomode13](https://github.com/gomode13) | Python |  |  |
+| [DRFiles](https://github.com/AntonFeoktistov/DRFiles) | [AntonFeoktistov](https://github.com/AntonFeoktistov) | Python |  |  |
 
 
 ## Планировщик задач
@@ -250,6 +256,7 @@ weight = 30
 | Репозиторий | Автор | Язык | Ревью | Автор ревью |
 |-------------|-------|------|-------|-------------|
 | [TODO-App](https://github.com/userksv/TODO-App) | [userksv](https://github.com/userksv) | Python |  |  |
+| [task_tracker](https://github.com/KeshaVoz/task_tracker) | [KeshaVoz](https://github.com/KeshaVoz) | Python | 📝 [Заметки](https://github.com/Victor-Smirnoff/review/blob/main/content/KeshaVoz_task_tracker_review.md) | Виктор [@csatom](https://t.me/csatom) |
 
 
 ## Остальное
