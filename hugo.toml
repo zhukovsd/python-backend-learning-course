@@ -27,3 +27,7 @@ enableGitInfo = true
   name = "YouTube"
   url = "https://www.youtube.com/@zhukovsd_it_mentor"
   weight = 30
+
+services:
+  googleAnalytics:
+    id: "GT-K4TFH2PN"
