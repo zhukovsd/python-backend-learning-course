@@ -7,7 +7,7 @@ weight = 30
 
 Список реализаций проектов курса (и не только). Для каждого проекта указана ссылка на код, язык программирования/фреймворк, и ссылка на ревью.
 
-192 реализаций, 87 ревью.
+196 реализаций, 92 ревью.
 
 [Полная версия таблицы с реализациями проектов](https://zhukovsd.github.io/java-backend-learning-course/finished-projects) на всех языках программирования, не только Python.
 
@@ -81,6 +81,7 @@ weight = 30
 | [hangman-game](https://github.com/nikn808/hangman-game) | [nikn808](https://github.com/nikn808) | Python |  |  |
 | [python_hangman](https://github.com/touddadon/python_hangman) | [touddadon](https://github.com/touddadon) | Python | 📝 [Заметки](https://github.com/Gilenor/Reviews/blob/main/Python/Hangman/touddadon/python_hangman/REVIEW.md) | Сергей [@ex_cactus](https://t.me/ex_cactus) |
 | [Gallows](https://github.com/HyPper1oN/Gallows) | [HyPper1oN](https://github.com/HyPper1oN) | Python |  |  |
+| [educational_project_hangman](https://github.com/miklanp-png/educational_project_hangman) | [miklanp-png](https://github.com/miklanp-png) | Python | 📝 [Заметки](https://github.com/Victor-Smirnoff/review/blob/main/hangman_by_miklanp-png/review.md) | Виктор [@csatom](https://t.me/csatom) |
 
 
 ## Симуляция
@@ -123,6 +124,7 @@ weight = 30
 | [Simulation](https://github.com/Benfych/Simulation) | [Benfych](https://github.com/Benfych) | Python | 📝 [Заметки](https://github.com/Gilenor/Reviews/blob/main/Python/Simulation/Benfych/REVIEW.md) | Сергей [@ex_cactus](https://t.me/ex_cactus) |
 | [simulation](https://github.com/kkeeperr/simulation) | [kkeeperr](https://github.com/kkeeperr) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/5f1750207929dd871063413cc376186b) | Сергей [@ex_cactus](https://t.me/ex_cactus) |
 | [Simulation_2D](https://github.com/Vadim-Neshytoi/Simulation_2D) | [Vadim-Neshytoi](https://github.com/Vadim-Neshytoi) | Python |  |  |
+| [simulation](https://github.com/nakedborn666/simulation) | [nakedborn666](https://github.com/nakedborn666) | Python |  |  |
 
 
 ## Обмен валют
@@ -205,7 +207,9 @@ weight = 30
 | [Tennis](https://github.com/AntonFeoktistov/Tennis) | [AntonFeoktistov](https://github.com/AntonFeoktistov) | Python |  |  |
 | [python-tennis-scoreboard](https://github.com/Worker2088/python-tennis-scoreboard) | [Worker2088](https://github.com/Worker2088) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/825dc7b2c8a98d28c2f17f8bc5085274) | Максим [@apostol_fet](https://t.me/apostol_fet) |
 | [Tennis_match_scoreboard](https://github.com/nikn808/Tennis_match_scoreboard) | [nikn808](https://github.com/nikn808) | Python |  |  |
-| [TennisMatchScoreboard](https://github.com/KhudopayMA/TennisMatchScoreboard) | [KhudopayMA](https://github.com/KhudopayMA) | Python |  |  |
+| [TennisMatchScoreboard](https://github.com/KhudopayMA/TennisMatchScoreboard) | [KhudopayMA](https://github.com/KhudopayMA) | Python | 📝 [Заметки](https://github.com/Victor-Smirnoff/review/blob/main/TennisMatchScoreboard_by_KhudopayMA/review.md) | Виктор [@csatom](https://t.me/csatom) |
+| [tennis_scoreboard](https://github.com/gomode13/tennis_scoreboard) | [gomode13](https://github.com/gomode13) | Python | 📝 [Заметки](https://github.com/Victor-Smirnoff/review/blob/main/content/tennis_scoreboard_by_gomode13/review.md) | Виктор [@csatom](https://t.me/csatom) |
+| [tennis_scoreboard](https://github.com/KeshaVoz/tennis_scoreboard) | [KeshaVoz](https://github.com/KeshaVoz) | Python | 📝 [Заметки](https://github.com/Victor-Smirnoff/review/blob/main/content/tennis_scoreboard_by_KeshaVoz/review.md) | Василий [@Chearkov](https://t.me/Chearkov) |
 
 
 ## Погода
@@ -246,7 +250,7 @@ weight = 30
 | [Cloud_file_storage](https://github.com/George11pro/Cloud_file_storage) | [George11pro](https://github.com/George11pro) | Python | 📝 [Заметки](https://gist.github.com/Asenim/24aa98874ad9166150b7c12e09a2daf7) | Альф [@Asinim](https://t.me/Asinim) |
 | [python-cloud](https://github.com/Worker2088/python-cloud) | [Worker2088](https://github.com/Worker2088) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/1c2a65444017eaca1940c64e752b332d) | Максим [@apostol_fet](https://t.me/apostol_fet) |
 | [cloud-file-storage](https://github.com/gomode13/cloud-file-storage) | [gomode13](https://github.com/gomode13) | Python |  |  |
-| [DRFiles](https://github.com/AntonFeoktistov/DRFiles) | [AntonFeoktistov](https://github.com/AntonFeoktistov) | Python |  |  |
+| [DRFiles](https://github.com/AntonFeoktistov/DRFiles) | [AntonFeoktistov](https://github.com/AntonFeoktistov) | Python | 📝 [Заметки](https://github.com/Victor-Smirnoff/review/blob/main/DRFiles_by_AntonFeoktistov/review.md) | Виктор [@csatom](https://t.me/csatom) |
 
 
 ## Планировщик задач
