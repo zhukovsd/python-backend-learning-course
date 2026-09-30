@@ -7,7 +7,7 @@ weight = 30
 
 Список реализаций проектов курса (и не только). Для каждого проекта указана ссылка на код, язык программирования/фреймворк, и ссылка на ревью.
 
-196 реализаций, 92 ревью.
+202 реализаций, 94 ревью.
 
 [Полная версия таблицы с реализациями проектов](https://zhukovsd.github.io/java-backend-learning-course/finished-projects) на всех языках программирования, не только Python.
 
@@ -82,6 +82,7 @@ weight = 30
 | [python_hangman](https://github.com/touddadon/python_hangman) | [touddadon](https://github.com/touddadon) | Python | 📝 [Заметки](https://github.com/Gilenor/Reviews/blob/main/Python/Hangman/touddadon/python_hangman/REVIEW.md) | Сергей [@ex_cactus](https://t.me/ex_cactus) |
 | [Gallows](https://github.com/HyPper1oN/Gallows) | [HyPper1oN](https://github.com/HyPper1oN) | Python |  |  |
 | [educational_project_hangman](https://github.com/miklanp-png/educational_project_hangman) | [miklanp-png](https://github.com/miklanp-png) | Python | 📝 [Заметки](https://github.com/Victor-Smirnoff/review/blob/main/hangman_by_miklanp-png/review.md) | Виктор [@csatom](https://t.me/csatom) |
+| [Project-1-hangman-](https://github.com/losmiqq/Project-1-hangman-) | [losmiqq](https://github.com/losmiqq) | Python |  |  |
 
 
 ## Симуляция
@@ -173,8 +174,10 @@ weight = 30
 | [currency_exchange.git](https://github.com/Anik-p/currency_exchange.git) | [Anik-p](https://github.com/Anik-p) | Python |  |  |
 | [CurenncyExchangeDRF](https://github.com/KhudopayMA/CurenncyExchangeDRF) | [KhudopayMA](https://github.com/KhudopayMA) | Python |  |  |
 | [currency-exchange](https://github.com/nikn808/currency-exchange) | [nikn808](https://github.com/nikn808) | Python |  |  |
-| [Currency-Exchange-REST-API](https://github.com/Vadim-Neshytoi/Currency-Exchange-REST-API) | [Vadim-Neshytoi](https://github.com/Vadim-Neshytoi) | Python |  |  |
+| [Currency-Exchange-REST-API](https://github.com/Vadim-Neshytoi/Currency-Exchange-REST-API) | [Vadim-Neshytoi](https://github.com/Vadim-Neshytoi) | Python | 📝 [Заметки](https://gist.github.com/Asenim/049587c04304d5ac354e2397713ddacb) | Альф [@Asinim](https://t.me/Asinim) |
 | [currency-exchanger](https://github.com/nibirietz/currency-exchanger) | [nibirietz](https://github.com/nibirietz) | Python |  |  |
+| [currency-exchange](https://github.com/TheEmpressDiadema/currency-exchange) | [TheEmpressDiadema](https://github.com/TheEmpressDiadema) | Python |  |  |
+| [exchanger](https://github.com/maff1337/exchanger) | [maff1337](https://github.com/maff1337) | Python |  |  |
 
 
 ## Теннисное табло
@@ -251,6 +254,8 @@ weight = 30
 | [python-cloud](https://github.com/Worker2088/python-cloud) | [Worker2088](https://github.com/Worker2088) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/1c2a65444017eaca1940c64e752b332d) | Максим [@apostol_fet](https://t.me/apostol_fet) |
 | [cloud-file-storage](https://github.com/gomode13/cloud-file-storage) | [gomode13](https://github.com/gomode13) | Python |  |  |
 | [DRFiles](https://github.com/AntonFeoktistov/DRFiles) | [AntonFeoktistov](https://github.com/AntonFeoktistov) | Python | 📝 [Заметки](https://github.com/Victor-Smirnoff/review/blob/main/DRFiles_by_AntonFeoktistov/review.md) | Виктор [@csatom](https://t.me/csatom) |
+| [cloud-file-storage](https://gitlab.com/blazing-group1/cloud-file-storage) | [blazing-group1](https://gitlab.com/blazing-group1) | Python |  |  |
+| [cloud-storage](https://github.com/nikn808/cloud-storage) | [nikn808](https://github.com/nikn808) | Python |  |  |
 
 
 ## Планировщик задач
@@ -261,6 +266,7 @@ weight = 30
 |-------------|-------|------|-------|-------------|
 | [TODO-App](https://github.com/userksv/TODO-App) | [userksv](https://github.com/userksv) | Python |  |  |
 | [task_tracker](https://github.com/KeshaVoz/task_tracker) | [KeshaVoz](https://github.com/KeshaVoz) | Python | 📝 [Заметки](https://github.com/Victor-Smirnoff/review/blob/main/content/KeshaVoz_task_tracker_review.md) | Виктор [@csatom](https://t.me/csatom) |
+| [task-tracker](https://github.com/gomode13/task-tracker) | [gomode13](https://github.com/gomode13) | Python | 📝 [Заметки](https://github.com/Victor-Smirnoff/review/blob/main/content/task-tracker_by_gomode13/review.md) | Виктор [@csatom](https://t.me/csatom) |
 
 
 ## Остальное
