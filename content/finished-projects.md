@@ -7,7 +7,7 @@ weight = 30
 
 Список реализаций проектов курса (и не только). Для каждого проекта указана ссылка на код, язык программирования/фреймворк, и ссылка на ревью.
 
-202 реализаций, 94 ревью.
+211 реализаций, 98 ревью.
 
 [Полная версия таблицы с реализациями проектов](https://zhukovsd.github.io/java-backend-learning-course/finished-projects) на всех языках программирования, не только Python.
 
@@ -83,6 +83,9 @@ weight = 30
 | [Gallows](https://github.com/HyPper1oN/Gallows) | [HyPper1oN](https://github.com/HyPper1oN) | Python |  |  |
 | [educational_project_hangman](https://github.com/miklanp-png/educational_project_hangman) | [miklanp-png](https://github.com/miklanp-png) | Python | 📝 [Заметки](https://github.com/Victor-Smirnoff/review/blob/main/hangman_by_miklanp-png/review.md) | Виктор [@csatom](https://t.me/csatom) |
 | [Project-1-hangman-](https://github.com/losmiqq/Project-1-hangman-) | [losmiqq](https://github.com/losmiqq) | Python |  |  |
+| [hangman](https://github.com/Mirzopulod/hangman) | [Mirzopulod](https://github.com/Mirzopulod) | Python | 📝 [Заметки](https://github.com/Victor-Smirnoff/review/blob/main/content/hangman_by_Mirzopulod/review.md) | Виктор [@csatom](https://t.me/csatom) |
+| [hangman](https://github.com/jpg-aurafarm/hangman) | [jpg-aurafarm](https://github.com/jpg-aurafarm) | Python | 📝 [Заметки](https://github.com/Victor-Smirnoff/review/blob/main/content/hangman_by_jpg-aurafarm/review.md) | Виктор [@csatom](https://t.me/csatom) |
+| [hangman](https://github.com/ambal333/hangman) | [ambal333](https://github.com/ambal333) | Python | 📝 [Заметки](https://github.com/Victor-Smirnoff/review/blob/main/content/hangman_by_ambal333/review.md) | Виктор [@csatom](https://t.me/csatom) |
 
 
 ## Симуляция
@@ -126,6 +129,8 @@ weight = 30
 | [simulation](https://github.com/kkeeperr/simulation) | [kkeeperr](https://github.com/kkeeperr) | Python | 📝 [Заметки](https://gist.github.com/OlegTihii/5f1750207929dd871063413cc376186b) | Сергей [@ex_cactus](https://t.me/ex_cactus) |
 | [Simulation_2D](https://github.com/Vadim-Neshytoi/Simulation_2D) | [Vadim-Neshytoi](https://github.com/Vadim-Neshytoi) | Python |  |  |
 | [simulation](https://github.com/nakedborn666/simulation) | [nakedborn666](https://github.com/nakedborn666) | Python |  |  |
+| [simulation](https://github.com/ambal333/simulation) | [ambal333](https://github.com/ambal333) | Python |  |  |
+| [Simulation](https://github.com/MYTAHT86/Simulation) | [MYTAHT86](https://github.com/MYTAHT86) | Python | 📝 [Заметки](https://github.com/Victor-Smirnoff/review/blob/main/content/Simulation_by_MYTAHT86/review.md) | Виктор [@csatom](https://t.me/csatom) |
 
 
 ## Обмен валют
@@ -178,6 +183,7 @@ weight = 30
 | [currency-exchanger](https://github.com/nibirietz/currency-exchanger) | [nibirietz](https://github.com/nibirietz) | Python |  |  |
 | [currency-exchange](https://github.com/TheEmpressDiadema/currency-exchange) | [TheEmpressDiadema](https://github.com/TheEmpressDiadema) | Python |  |  |
 | [exchanger](https://github.com/maff1337/exchanger) | [maff1337](https://github.com/maff1337) | Python |  |  |
+| [CurrencyExchange](https://github.com/nakedborn666/CurrencyExchange) | [nakedborn666](https://github.com/nakedborn666) | Python |  |  |
 
 
 ## Теннисное табло
@@ -213,6 +219,8 @@ weight = 30
 | [TennisMatchScoreboard](https://github.com/KhudopayMA/TennisMatchScoreboard) | [KhudopayMA](https://github.com/KhudopayMA) | Python | 📝 [Заметки](https://github.com/Victor-Smirnoff/review/blob/main/TennisMatchScoreboard_by_KhudopayMA/review.md) | Виктор [@csatom](https://t.me/csatom) |
 | [tennis_scoreboard](https://github.com/gomode13/tennis_scoreboard) | [gomode13](https://github.com/gomode13) | Python | 📝 [Заметки](https://github.com/Victor-Smirnoff/review/blob/main/content/tennis_scoreboard_by_gomode13/review.md) | Виктор [@csatom](https://t.me/csatom) |
 | [tennis_scoreboard](https://github.com/KeshaVoz/tennis_scoreboard) | [KeshaVoz](https://github.com/KeshaVoz) | Python | 📝 [Заметки](https://github.com/Victor-Smirnoff/review/blob/main/content/tennis_scoreboard_by_KeshaVoz/review.md) | Василий [@Chearkov](https://t.me/Chearkov) |
+| [Tennis-Match-Scoreboard-](https://github.com/Vadim-Neshytoi/Tennis-Match-Scoreboard-) | [Vadim-Neshytoi](https://github.com/Vadim-Neshytoi) | Python |  |  |
+| [tennis-scoreboard](https://github.com/maff1337/tennis-scoreboard) | [maff1337](https://github.com/maff1337) | Python |  |  |
 
 
 ## Погода
@@ -256,6 +264,7 @@ weight = 30
 | [DRFiles](https://github.com/AntonFeoktistov/DRFiles) | [AntonFeoktistov](https://github.com/AntonFeoktistov) | Python | 📝 [Заметки](https://github.com/Victor-Smirnoff/review/blob/main/DRFiles_by_AntonFeoktistov/review.md) | Виктор [@csatom](https://t.me/csatom) |
 | [cloud-file-storage](https://gitlab.com/blazing-group1/cloud-file-storage) | [blazing-group1](https://gitlab.com/blazing-group1) | Python |  |  |
 | [cloud-storage](https://github.com/nikn808/cloud-storage) | [nikn808](https://github.com/nikn808) | Python |  |  |
+| [cloud-storage](https://gitlab.com/pet777/cloud-storage) | [pet777](https://gitlab.com/pet777) | Python |  |  |
 
 
 ## Планировщик задач
